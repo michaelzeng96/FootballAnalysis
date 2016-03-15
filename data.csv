@@ -1,0 +1,955 @@
+PLAY #,ODK,DN,DIST,HASH,YARD LN,PLAY TYPE,RUN AREA,PASS ZONE,GN/LS,RESULT,OFF FORM,OFF PLAY,comments,DEF FRONT,S ALIGN,COVERAGE,BLITZ,comments2,QTR,OPP TEAM
+79,O,2,16,L,-29,Run,P-R,,4,Rush,DOUBLES,10 TRAP,,42,2HI,C3,,,,University of Puget Sound
+91,O,1,10,L,-20,Run,P-R,,1,Rush,TRIO,10 TRAP,,33,1HI,C3,5I,,,Pacific Lutheran University
+110,O,1,10,L,-15,Run,,,-1,Rush,TRIO,10 TRAP,,33,1HI,C3,5I,,,Pacific Lutheran University
+22,O,1,6,,6,Run,,,6,TD,DOUBLES,10 TRAP,,52,0,ZERO,,,,Lewis & Clark College
+6,O,1,10,M,37,Run,P-L,,4,Rush,DOUBLES,11 TRAP,,32,2HI,C4,,,,University of Puget Sound
+43,O,1,10,R,45,Run,P-R,,4,Rush,TRIO,11 TRAP,,42,1HI,C1,4R,,,University of Puget Sound
+98,O,1,10,R,30,Run,P-L,,10,Rush,DOUBLES,11 TRAP,,33,1HI,C3,6I,,,Pacific Lutheran University
+82,O,1,10,R,-22,Run,P-L,,-1,Rush,TRIO,11 TRAP,,33,2HI,C3,4I,,,Linfield College
+66,O,3,6,L,-11,Pass,,4,21,Complete,50,52 IDAHO,EXP,33,2HI,3ROLL,4L,,2,George Fox University
+112,O,3,11,L,-14,Pass,,4,0,Incomplete,50,52 IDAHO,,33,1HI,C3,5L,,,Pacific Lutheran University
+7,O,3,16,L,33,Pass,,3,0,Incomplete,50,52 IDAHO,,33,2HI,C2,4I,,,Pacific University
+36,O,1,10,L,49,Pass,,3,6,Complete,50,52 IDAHO,,42,2HI,C4,,,,Chapman University
+26,O,2,10,L,41,Pass,,,5,Penalty,50,52 VANDAL,,42,2HI,3ROLL,,,1,George Fox University
+160,O,3,30,R,42,Pass,,,-8,Sack,50,52 VANDAL,,33,2HI,C4,4I,,3,George Fox University
+24,O,3,13,M,-28,Pass,,7,,Interception,50,52 VANDAL,,32,2HI,2MAN,,DALLAS,,Linfield College
+112,O,3,8,M,-8,Pass,,,2,Scramble,50,52 VANDAL,,51,1HI,C3,,,,Chapman University
+17,O,2,10,L,25,Pass,,7,20,Complete,50,52 VANDAL,,42,0,ZERO,6I,,,University of La Verne
+193,O,3,26,L,-30,Pass,,7,21,Complete,50,52 VANDAL,,42,2HI,OVER,,,,University of La Verne
+123,O,2,8,R,-41,Pass,,1,9,Complete,50,53 OREGON SAXON,,41,2HI,3ROLL,,,,Linfield College
+106,O,1,20,R,-30,Pass,,3,13,Complete,50,54 IDAHO,,42,2HI,3ROLL,,,,Whittier College
+111,O,3,20,L,-43,Pass,,6,0,Incomplete,TRIO,88 C1,,42,2HI,C4,,,2,George Fox University
+73,O,2,15,,-14,Pass,,,0,,DEUCE,88 C1,,42,1HI,C2,,,,Linfield College
+74,O,3,15,,-14,Pass,,,0,,DEUCE,88 C1,,32,1HI,21,4I,,,Linfield College
+142,O,2,8,L,-43,Pass,,6,12,Complete,TRIO,88 C1,,42,1HI,C2,,,,Chapman University
+38,O,3,8,L,39,Pass,,6,0,Incomplete,TRIO,88 C3,,41,2HI,2MAN,,,,Whittier College
+88,O,1,10,L,19,Pass,,5,0,Incomplete,TRIO,88 C3,,42,2HI,C2,,,,Whittier College
+183,O,3,7,L,8,Pass,,6,0,Incomplete,TRIO,88 C3,,41,0,OVER,,,,Whittier College
+94,O,2,10,L,-30,Pass,,1,19,Complete,TRIO,88 LARRY,,33,1HI,C3,5O,,,Pacific Lutheran University
+80,O,3,12,L,-33,Pass,,3,0,Incomplete,DOUBLES,88 SEATTLE,,42,2HI,C3,,,,University of Puget Sound
+131,O,3,25,L,24,Pass,,,12,Penalty,DOUBLES,88 SEATTLE,,32,2HI,C3,,,,Linfield College
+52,O,3,7,L,-49,Pass,,9,0,Incomplete,TRIO,88 WASH,,33,1HI,C3,5O,,,Pacific Lutheran University
+143,O,2,8,L,11,Pass,,6,0,Incomplete,DOUBLES,88 WASH,,42,0,OVER,,,,Whittier College
+152,O,3,12,R,-23,Pass,,4,0,Incomplete,TRIO,89 C3,,42,1HI,,,?,,University of La Verne
+192,O,2,24,R,-32,Pass,B-L QB,,-2,Scramble,TRIO,89 C3,,42,1HI,3ROLL,,,,University of La Verne
+159,O,3,8,R,41,Pass,,,15,Penalty,TRIO,89 C3,,41,2HI,24,,,,Whittier College
+157,O,3,9,R,-17,Pass,,7,0,Incomplete,TRIO,89 WASH,,33,1HI,ZERO,6I,,,Pacific Lutheran University
+8,O,1,2,L,2,Run,P-R,,2,TD,TRIO,A NOW,,51,0,ZERO,,,1,George Fox University
+28,O,1,10,L,22,Run,,,-9,Penalty,TRIO,A NOW,,42,2HI,C4,,,1,George Fox University
+69,O,3,1,L,-41,Run,P-R,,0,Rush,TRIO,A NOW,,42,2HI,C2,,,2,George Fox University
+152,O,1,10,L,-45,Run,P-R,,3,Rush,TRIO,A NOW,,42,2HI,C4,,,3,George Fox University
+204,O,1,10,L,10,Run,C-L,,5,Rush,TRIO,A NOW,,42,2HI,C4,,,4,George Fox University
+205,O,2,5,M,5,Run,B-R,,5,TD,TRIO,A NOW,,51,0,ZERO,5I,,4,George Fox University
+5,O,4,1,L,41,Run,P-R,,2,Rush,TRIO,A NOW,,70,0,ZERO,,,,University of Puget Sound
+11,O,2,6,R,20,Run,P-L,,4,Rush,TRIO,A NOW,,33,2HI,C4,,,,University of Puget Sound
+25,O,1,10,L,4,Run,P-R,,4,TD,TRIO,A NOW,,61,0,ZERO,,,,University of Puget Sound
+28,O,3,1,L,-39,Run,P-L,,0,Rush,TRIO,A NOW,,70,0,ZERO,,,,University of Puget Sound
+53,O,1,10,R,-47,Run,P-L,,3,Rush,TRIO,A NOW,,42,1HI,C3,,,,University of Puget Sound
+35,O,1,10,L,30,Run,C-L,,28,Rush,TRIO,A NOW,,33,1HI,C3,4I,,,Pacific Lutheran University
+173,O,1,10,R,-15,Run,C-R,,0,Rush,TRIO,A NOW,,33,1HI,C3,5O,,,Pacific Lutheran University
+24,O,1,10,M,-3,Run,P-R,,7,Rush,TRIO,A NOW,,33,2HI,C2,,,,Pacific University
+33,O,2,3,R,3,Run,P-R,,3,"Rush, TD",TRIO,A NOW,,33,1HI,C1,,,,Pacific University
+42,O,1,10,L,-49,Pass,,1,5,Complete,TRIO,A NOW,,33,2HI,C2,,,,Pacific University
+80,O,1,10,R,-33,Pass,,3,8,Complete,TRIO,A NOW,,33,2HI,C4,,,,Pacific University
+95,O,1,10,R,32,Run,P-L,,8,Rush,TRIO,A NOW,,33,2HI,C1,,,,Pacific University
+111,O,1,10,L,20,Run,P-R,,4,Rush,TRIO,A NOW,,33,2HI,C1,,,,Pacific University
+178,O,2,4,L,-25,Run,,,-10,Penalty,TRIO,A NOW,,33,1HI,C3,,,,Pacific University
+183,O,2,10,L,33,Run,P-R,,8,Rush,TRIO,A NOW,,33,2HI,C1,,,,Pacific University
+186,O,2,8,R,18,Run,P-R,,3,Rush,TRIO,A NOW,,33,2HI,C1,,,,Pacific University
+212,O,2,8,R,29,Run,C-R,,12,Rush,TRIO,A NOW,,33,2HI,C1,,,,Pacific University
+215,O,3,1,L,8,Run,P-L,,7,Rush,TRIO,A NOW,,33,1HI,ZERO,,,,Pacific University
+17,O,1,10,L,-33,Run,P-R,,2,Rush,TRIO,A NOW,,33,2HI,C3,,,,Willamette University
+52,O,1,10,R,34,Run,P-L,,1,Rush,TRIO,A NOW,,33,2HI,C3,,,,Willamette University
+57,O,1,5,L,5,Run,C-L,,2,Rush,TRIO,A NOW,,34,0,ZERO,4L,,,Willamette University
+112,O,2,10,L,50,Run,P-R,,6,Rush,TRIO,A NOW,,33,2HI,C3,,,,Willamette University
+143,O,1,10,L,20,Run,P-L,,5,Rush,TRIO,A NOW,,32,2HI,C3,,,,Willamette University
+163,O,1,10,L,-42,,,,,Fumble,TRIO,A NOW,,52,0,ZERO,5L,,,Willamette University
+18,O,1,10,,-48,Pass,,,8,,TRIO,A NOW,,42,2HI,C2,,,,Lewis & Clark College
+35,O,2,2,,-25,Run,,,9,,TRIO,A NOW,,42,2HI,ROBBER,,,,Lewis & Clark College
+41,O,1,10,,3,Run,,,1,,TRIO,A NOW,,51,0,ZERO,6O,,,Lewis & Clark College
+181,O,1,10,,-9,Run,,,1,,TRIO,A NOW,,42,2HI,ROBBER,,,,Lewis & Clark College
+167,O,2,5,,50,Run,,,1,,TRIO,A NOW,,33,2HI,C3,,,,Linfield College
+26,O,1,10,L,17,Run,B-R,,12,Rush,TRIO,A NOW,,42,2HI,C4,,,,Chapman University
+54,O,1,10,L,-28,Run,P-R,,4,Rush,TRIO,A NOW,,42,2HI,C4,,,,Chapman University
+71,O,2,6,L,42,Run,C-L,,20,Rush,TRIO,A NOW,,42,2HI,C2,,,,Chapman University
+76,O,3,1,R,1,Run,C-R,,1,TD,TRIO,A NOW,,42,1HI,ZERO,,,,Chapman University
+89,O,2,4,R,-19,Run,C-R,,6,Rush,TRIO,A NOW,,33,2HI,3ROLL,,,,Chapman University
+149,O,1,10,L,4,Run,C-L,,4,TD,TRIO,A NOW,,42,0,ZERO,,,,Chapman University
+154,O,1,10,L,-26,Run,C-L,,5,Rush,TRIO,A NOW,,42,1HI,ROBBER,,,,Chapman University
+3,O,2,11,R,-25,Run,C-R,,2,Rush,TRIO,A NOW,,42,1HI,C1,,,,University of La Verne
+12,O,2,2,R,-38,Run,P-L,,1,Rush,TRIO,A NOW,,42,1HI,C1,,,,University of La Verne
+58,O,3,2,L,26,Run,P-R,,8,Rush,TRIO,A NOW,,42,2HI,C1,5I,,,University of La Verne
+97,O,2,3,L,-40,Pass,,1,8,Complete,TRIO,A NOW,,42,1HI,C3,,,,University of La Verne
+100,O,1,10,R,36,Run,P-L,,1,Rush,TRIO,A NOW,,42,1HI,,,?,,University of La Verne
+113,O,1,10,R,16,Pass,,3,1,Complete,TRIO,A NOW,,42,1HI,,,?,,University of La Verne
+135,O,1,10,R,-30,Run,C-R,,3,Rush,TRIO,A NOW,,42,1HI,,,?,,University of La Verne
+150,O,1,10,R,-25,Run,B-R QB,,-2,Rush,TRIO,A NOW,,42,1HI,24,,,,University of La Verne
+206,O,1,10,R,49,Run,P-L,,2,Rush,TRIO,A NOW,,42,1HI,3ROLL,,,,University of La Verne
+48,O,1,10,L,-41,Run,P-R,,0,Rush,TRIO,A NOW,,41,2HI,C1,,,,Whittier College
+195,O,1,10,R,-17,Run,C-L,,4,Rush,TRIO,A NOW,,42,2HI,C1,5I,,,Whittier College
+4,O,1,10,R,-49,Run,C-R,,17,Rush,DOUBLES,A1,EXP,42,2HI,C4,5I,,1,George Fox University
+102,O,2,1,R,-21,Run,C-R,,7,Rush,DOUBLES,A1,,42,2HI,3ROLL,,,2,George Fox University
+107,O,3,1,R,48,Run,P-L,,1,Rush,DOUBLES,A1,,42,2HI,C2,,,2,George Fox University
+184,O,1,10,R,-14,Pass,,3,4,Complete,DOUBLES,A1,,42,2HI,ZERO,5I,,4,George Fox University
+40,O,1,10,R,-41,Run,P-R,,3,Rush,DOUBLES,A1,,42,2HI,C3,4R,,,University of Puget Sound
+50,O,1,10,R,-28,Run,B-L,,0,Rush,DOUBLES,A1,,42,2HI,C4,,,,University of Puget Sound
+20,O,1,10,R,-41,Run,P-L,,4,Rush,DOUBLES,A1,,33,1HI,C3,5I,,,Pacific Lutheran University
+70,O,2,6,R,-47,Run,P-L,,9,Rush,DOUBLES,A1,,33,1HI,C3,6I,,,Pacific Lutheran University
+187,O,2,1,R,-32,Run,C-R,,4,Rush,DOUBLES,A1,,33,1HI,C3,6I,,,Pacific Lutheran University
+188,O,1,10,R,-36,Run,P-L,,5,Rush,DOUBLES,A1,,33,1HI,C3,5L,,,Pacific Lutheran University
+30,O,1,10,R,28,Pass,,3,4,Complete,DOUBLES,A1,,33,2HI,24,,,,Pacific University
+135,O,1,10,R,25,Run,C-R,,2,Rush,DOUBLES,A1,,33,2HI,C1,,,,Pacific University
+153,O,1,10,R,-21,Pass,,3,4,Complete,DOUBLES,A1,,33,2HI,24,,,,Pacific University
+159,O,1,10,R,21,Run,P-L,,5,Rush,DOUBLES,A1,,33,2HI,24,,,,Pacific University
+175,O,1,10,R,-8,Run,P-L,,3,Rush,DOUBLES,A1,,33,2HI,C2,,,,Pacific University
+184,O,3,2,M,25,Pass,,3,5,Complete,DOUBLES,A1,,32,1HI,C1,6I,,,Pacific University
+209,O,1,10,R,46,Run,P-L,,2,Rush,DOUBLES,A1,,32,2HI,24,,,,Pacific University
+230,O,1,10,R,46,Run,B-L,,-1,Rush,DOUBLES,A1,,33,2HI,C1,,,,Pacific University
+3,O,2,19,R,-1,Run,P-L,,0,Rush,DOUBLES,A1,,32,2HI,OVER,,,,Willamette University
+26,O,2,1,R,-34,Pass,,3,4,Complete,DOUBLES,A1,,33,2HI,OVER,,,,Willamette University
+114,O,1,10,R,39,Pass,,3,0,Incomplete,DOUBLES,A1,,42,2HI,OVER,,,,Willamette University
+129,O,2,4,R,35,Run,P-L,,0,Rush,DOUBLES,A1,,42,2HI,C2,,,,Willamette University
+140,O,1,10,R,32,Run,B-L,,2,Rush,DOUBLES,A1,,42,2HI,OVER,,,,Willamette University
+168,O,1,10,L,-20,Run,P-R,,2,Rush,DOUBLES,A1,,52,2HI,ZERO,5L,,,Willamette University
+114,O,1,10,,49,Pass,,,7,,DOUBLES,A1,,42,2HI,24,,,,Lewis & Clark College
+156,O,1,10,,-39,Run,,,4,,DOUBLES,A1,,42,2HI,C2,,,,Lewis & Clark College
+162,O,3,1,,28,Run,,,2,,DOUBLES,A1,,33,2HI,C2,4I,,,Lewis & Clark College
+164,O,2,7,,23,Pass,,,3,,DOUBLES,A1,,33,2HI,C2,4I,,,Lewis & Clark College
+2,O,1,10,,-25,Run,,,2,,TRIO,A1,,42,2HI,ROBBER,,,,Linfield College
+136,O,1,10,,-25,Run,,,3,,DOUBLES,A1,,33,2HI,C2,,,,Linfield College
+151,O,1,10,,34,Pass,,,0,,TRIO,A1,,31,2HI,C3,,,,Linfield College
+157,O,1,9,,9,Run,,,3,,DOUBLES,A1,,33,2HI,C4,,,,Linfield College
+183,O,2,12,,-20,Run,,,10,,DOUBLES,A1,,42,2HI,C2,,,,Linfield College
+70,O,1,10,L,46,Pass,,1,4,Complete,DOUBLES,A1,,42,2HI,C4,,,,Chapman University
+117,O,2,6,R,-23,Run,P-L,,1,Rush,DOUBLES,A1,,43,2HI,21,,,,Chapman University
+103,O,1,10,L,11,Pass,,1,-5,Penalty,DOUBLES,A1,,42,0,C4,,,,University of La Verne
+32,O,1,10,R,-22,Run,B-L,,5,Rush,DOUBLES,A1,,41,2HI,ZERO,,,,Whittier College
+214,O,1,10,L,47,Run,C-L,,5,Rush,DOUBLES,A1,,42,2HI,OVER,,,,Whittier College
+197,O,2,4,L,-41,Run,P-R,,8,Rush,DOUBLES,A2,,51,2HI,C1,6I,,4,George Fox University
+217,O,1,10,R,-33,Run,B-R,,8,Rush,DOUBLES,A2,,42,2HI,C2,,,4,George Fox University
+218,O,2,2,R,-41,Run,B-R,,3,Rush,DOUBLES,A2,,42,2HI,3ROLL,5L,,4,George Fox University
+22,O,1,10,L,35,Run,B-L,,18,Rush,TRIO,A2,,70,0,ZERO,,,,University of Puget Sound
+58,O,2,9,L,-26,Run,P-R,,3,Rush,DOUBLES,A2,,42,2HI,C3,,,,University of Puget Sound
+186,O,1,10,R,-22,Run,P-R,,10,Rush,DOUBLES,A2,,33,1HI,C3,5L,,,Pacific Lutheran University
+189,O,2,5,L,-41,Run,P-R,,0,Rush,DOUBLES,A2,,33,1HI,C3,,,,Pacific Lutheran University
+25,O,2,3,M,-10,Run,P-L,,15,Rush,TRIO,A2,,33,2HI,C3,4R,,,Pacific University
+79,O,1,10,M,-21,Run,C-R,,12,Rush,TRIO,A2,,33,2HI,C4,,,,Pacific University
+131,O,1,10,L,-31,Run,C-R,,2,Rush,TRIO,A2,,33,1HI,C3,,,,Pacific University
+154,O,2,6,R,-25,Run,P-R,,29,Rush,TRIO,A2,,34,2HI,2MAN,5I,,,Pacific University
+160,O,2,5,R,16,Pass,,1,8,Complete,DOUBLES,A2,,33,2HI,2MAN,4L,,,Pacific University
+177,O,1,10,M,-19,Pass,,1,6,Complete,DOUBLES,A2,,33,2HI,C4,,,,Pacific University
+211,O,1,10,M,31,Run,B-R,,2,Rush,DOUBLES,A2,,33,2HI,C4,,,,Pacific University
+214,O,2,3,M,10,Pass,,1,2,Complete,DOUBLES,A2,,33,0,ZERO,,,,Pacific University
+216,O,1,10,M,1,Run,C-L,,1,"Rush, TD",DOUBLES,A2,,43,0,ZERO,5L,,,Pacific University
+231,O,2,11,L,47,Run,P-R,,3,Rush,DOUBLES,A2,,33,2HI,C4,,,,Pacific University
+232,O,3,8,L,44,Run,B-R,,5,Rush,DOUBLES,A2,,33,2HI,C4,,,,
+71,O,2,10,L,15,Run,P-R,,3,Rush,DOUBLES,A2,,32,2HI,OVER,,,,Willamette University
+98,O,2,8,L,30,Run,P-R,,3,Rush,DOUBLES,A2,,33,2HI,OVER,,,,Willamette University
+100,O,1,10,L,15,Run,C-L,,2,Rush,DOUBLES,A2,,33,2HI,OVER,,,,Willamette University
+108,O,1,10,L,-39,Pass,,1,-1,Complete,DOUBLES,A2,,32,2HI,OVER,,,,Willamette University
+155,O,1,10,L,-48,Run,P-R,,2,Rush,DOUBLES,A2,,43,2HI,OVER,5L,,,Willamette University
+34,O,1,10,,-17,Run,,,8,,TRIO,A2,,41,2HI,ROBBER,,,,Lewis & Clark College
+110,O,2,5,,-31,Run,,,3,,TRIO,A2,,42,2HI,ROBBER,,,,Lewis & Clark College
+158,O,2,6,,-43,Pass,,,8,,DOUBLES,A2,,51,2HI,C2,5I,,,Lewis & Clark College
+159,O,1,10,,49,Run,,,12,,TRIO,A2,,42,2HI,ROBBER,,,,Lewis & Clark College
+166,O,1,10,,13,Run,,,5,,DOUBLES,A2,,42,2HI,C2,,,,Lewis & Clark College
+183,O,3,9,,-10,Run,,,5,,DOUBLES,A2,,42,2HI,C2,,,,Lewis & Clark College
+26,O,2,6,,-19,Pass,,,7,,TRIO,A2,,41,2HI,ROBBER,,,,Linfield College
+37,O,3,27,,46,Pass,,,7,,TRIO,A2,,42,2HI,ROBBER,,,,Linfield College
+112,O,1,10,,32,Pass,,,1,,TRIO,A2,,41,2HI,C3,,,,Linfield College
+138,O,3,2,,-33,Pass,,,3,,TRIO,A2,,33,2HI,C3,,,,Linfield College
+182,O,1,10,,-22,Pass,,,-2,Complete,TRIO,A2,,42,2HI,C3,,,,Linfield College
+184,O,3,2,,-30,Pass,,,4,,TRIO,A2,,42,2HI,C3,,,,Linfield College
+187,O,1,10,,-44,Pass,,,5,,DOUBLES,A2,,42,2HI,C3,,,,Linfield College
+73,O,2,10,L,22,Pass,,3,14,Complete,TRIO,A2,,34,2HI,C1,5R,,,Chapman University
+91,O,1,10,L,-36,Pass,,1,6,Complete,DOUBLES,A2,,42,2HI,C2,,,,Chapman University
+95,O,1,10,L,20,Run,C-R,,16,Rush,TRIO,A2,,42,2HI,24,,,,Chapman University
+111,O,2,10,M,-5,Run,B-R,,3,Rush,TRIO,A2,,43,1HI,ROBBER,,,,Chapman University
+143,O,1,10,R,45,Run,P-R,,2,Rush,TRIO,A2,,42,1HI,ROBBER,,,,Chapman University
+148,O,3,3,L,10,Run,P-L,,6,Rush,DOUBLES,A2,,34,0,ZERO,,,,Chapman University
+156,O,3,1,L,-35,Run,P-R,,3,Rush,DOUBLES,A2,,43,2HI,ZERO,,,,Chapman University
+82,O,1,5,L,5,Run,B-L,,5,TD,TRIO,A2,,42,0,ZERO,,,,University of La Verne
+98,O,1,10,L,-48,Run,P-L,,5,Rush,TRIO,A2,,42,1HI,,,?,,University of La Verne
+156,O,1,10,L,-26,Run,P-L,,2,Rush,TRIO,A2,,42,1HI,OVER,,,,University of La Verne
+175,O,1,10,M,21,Run,C-L,,8,Rush,TRIO,A2,,42,1HI,OVER,,,,University of La Verne
+176,O,2,2,L,13,Run,P-L,,3,Rush,TRIO,A2,,42,1HI,OVER,,,,University of La Verne
+199,O,1,10,L,48,Run,P-R,,2,Rush,DOUBLES,A2,,43,2HI,C4,,,,University of La Verne
+207,O,2,8,R,47,Run,P-R,,2,Rush,DOUBLES,A2,,42,2HI,C1,5I,,,University of La Verne
+209,O,3,1,R,40,Run,P-R,,1,Rush,DOUBLES,A2,,43,2HI,C4,,,,University of La Verne
+210,O,1,10,R,39,Run,P-R,,0,Rush,TRIO,A2,,42,1HI,OVER,,,,University of La Verne
+168,O,1,10,R,-48,Run,C-L,,4,Rush,DEUCE,A2,,42,2HI,ZERO,,,,Whittier College
+150,O,1,10,R,-26,Pass,,1,2,Complete,TEXAS,A2 NOW,,42,2HI,3ROLL,,,3,George Fox University
+70,O,3,6,M,35,Run,,,-2,Rush,50,A23,,41,1HI,C3,,,,University of Puget Sound
+125,O,1,10,L,-48,Run,P-R,,2,Rush,50,A23,,32,2HI,C3,,,,Willamette University
+50,O,1,10,,50,Pass,,,50,TD,50,A23,,32,2HI,C2,,,,Lewis & Clark College
+95,O,1,10,,-20,Run,,,3,,50,A23,,32,2HI,C2,,,,Linfield College
+97,O,1,10,,-42,Pass,,,3,,50,A23,,32,2HI,24,,,,Linfield College
+116,O,1,8,,8,Run,,,4,,50,A23,,42,2HI,OVER,,,,Linfield College
+37,O,2,4,R,43,Pass,,3,5,Complete,50,A23,,33,2HI,21,4R,,,Chapman University
+99,O,3,4,L,4,Run,C-L,,4,TD,50,A23,,42,0,OVER,,,,Chapman University
+54,O,4,1,L,42,Run,C-R,,8,Rush,50,A23,,42,1HI,C1,5I,,,University of La Verne
+106,O,2,6,R,-47,Pass,,3,5,Complete,DOUBLES,AF 1,,42,2HI,C4,,,2,George Fox University
+139,O,1,10,,-36,Pass,,,,Interception,DOUBLES,AF 1,,34,2HI,2MAN,,,,Linfield College
+145,O,1,10,L,30,Pass,,6,13,Complete,DOUBLES,AF 1,,42,2HI,C2,,,,Chapman University
+81,O,2,5,L,-41,Pass,,1,1,Complete,DOUBLES,AF 2,,33,2HI,C4,4L,,2,George Fox University
+125,O,1,10,R,12,Pass,,4,0,Incomplete,DOUBLES,AF 2,,42,2HI,24,,,3,George Fox University
+84,O,1,10,,34,Pass,,,2,,ACE,AF 2,,42,2HI,C3,,,,Lewis & Clark College
+25,O,1,10,R,32,Pass,,4,15,Complete,DOUBLES,AF 2,,33,2HI,C2,,,,Chapman University
+92,O,2,4,L,-42,Pass,,4,13,Complete,DOUBLES,AF 2,,42,2HI,C2,,,,Chapman University
+200,O,2,8,M,46,Pass,,4,0,Incomplete,DOUBLES,AF 2,,43,2HI,OVER,,,,University of La Verne
+157,O,1,10,M,-38,Pass,,9,0,Incomplete,DOUBLES,ALOHA,,43,2HI,OVER,4I,,,Chapman University
+84,O,3,7,L,-25,Pass,,4,0,Incomplete,TRIO,APPLE,,33,2HI,C3,,,,Linfield College
+10,O,4,2,M,31,Run,C-R,,-1,Rush,DOUBLES,APPLE,,42,2HI,C2,,,,Whittier College
+140,O,3,3,L,18,Run,P-L,,1,Rush,DOUBLES,APPLE,,42,2HI,ZERO,5I,,,Whittier College
+180,O,3,1,L,16,,,,5,Penalty,DOUBLES,APPLE,,42,0,,7,,,Whittier College
+144,O,2,5,L,15,Pass,,4,0,Incomplete,TRIO,ARK SLUGGO,,32,2HI,C3,,,,Willamette University
+28,O,2,5,L,5,Pass,,4,0,Incomplete,TRIO,ARK SLUGGO,,42,0,OVER,,,,Chapman University
+161,O,2,8,R,24,Pass,,7,24,TD,TRIO,ARK SLUGGO,,41,2HI,2MAN,,,,Whittier College
+82,O,3,4,L,-42,Pass,,5,14,Complete,TRIO,ARKANSAS,,33,2HI,C2,,,2,George Fox University
+186,O,3,6,R,-18,Pass,,3,12,Complete,TRIO,ARKANSAS,,42,2HI,3ROLL,4I,,4,George Fox University
+189,O,3,6,L,-34,Pass,,8,0,Incomplete,TRIO,ARKANSAS,,33,2HI,C2,,,4,George Fox University
+4,O,3,1,L,41,Pass,,2,0,Incomplete,DOUBLES,ARKANSAS,,70,0,OVER,,,,University of Puget Sound
+29,O,4,1,L,-39,Pass,,1,0,Incomplete,TRIO,ARKANSAS,,42,1HI,C4,,,,University of Puget Sound
+84,O,3,9,R,24,Pass,,3,8,Complete,DEUCE,ARKANSAS,,70,1HI,OVER,,,,University of Puget Sound
+94,O,3,4,L,-38,Pass,B-L QB,,0,Scramble,TRIO,ARKANSAS,,33,2HI,21,,,,Linfield College
+176,O,2,7,M,-11,Pass,P-L QB,,8,Scramble,DOUBLES,ARKANSAS,,33,0,ZERO,5R,,,Pacific University
+46,O,2,10,M,49,Pass,,1,0,Complete,DEUCE,ARKANSAS,,33,2HI,TAMPA,,,,Willamette University
+170,O,3,3,R,-27,Pass,,3,0,Incomplete,DOUBLES,ARKANSAS,,43,2HI,OVER,5R,,,Willamette University
+121,O,1,10,R,-27,Pass,,1,0,Incomplete,TRIO,ARKANSAS,,41,2HI,2MAN,,,,Whittier College
+39,O,1,10,M,-3,Run,P-L,,-1,Rush,BULLET,ARMY,,33,2HI,C1,5L,,1,George Fox University
+57,O,1,10,L,-25,Run,P-L,,1,Rush,DOUBLES,ARMY,,42,2HI,C4,,,,University of Puget Sound
+71,O,1,10,L,40,Run,P-L,,0,Rush,TRIO,ARMY,,70,0,ZERO,7,,,University of Puget Sound
+81,O,1,10,R,35,Run,P-L,,10,Rush,DEUCE,ARMY,,42,1HI,C1,,,,University of Puget Sound
+82,O,1,10,M,25,Run,P-R,,2,Rush,DEUCE,ARMY,,42,1HI,C1,,,,University of Puget Sound
+85,O,4,1,R,16,Run,P-L,,1,Rush,DEUCE,ARMY,,70,0,ZERO,7,,,University of Puget Sound
+86,O,1,10,L,19,Run,P-L,,-1,Rush,DEUCE,ARMY,,70,0,ZERO,7,,,University of Puget Sound
+92,O,1,10,R,36,Run,P-R,,2,Rush,DOUBLES,ARMY,,70,0,ZERO,7,,,University of Puget Sound
+179,O,1,10,R,-48,Run,P-L,,3,Rush,DEUCE,ARMY,,43,2HI,OVER,,,,Willamette University
+180,O,2,7,M,49,Run,P-L,,9,Rush,DEUCE,ARMY,,42,2HI,OVER,,,,Willamette University
+181,O,1,10,L,40,Run,P-L,,1,Rush,DEUCE,ARMY,,42,2HI,OVER,,,,Willamette University
+183,O,1,10,R,24,,,,0,Fumble,DEUCE,ARMY,,42,2HI,OVER,,,,Willamette University
+199,O,1,10,,-14,Run,,,6,,DEUCE,ARMY,,42,2HI,C4,,,,Lewis & Clark College
+200,O,2,4,,-20,Run,,,11,,DEUCE,ARMY,,42,2HI,C4,,,,Lewis & Clark College
+202,O,2,5,,-36,Run,,,5,,DEUCE,ARMY,,42,2HI,C4,,,,Lewis & Clark College
+203,O,3,5,,-36,Run,,,17,,DEUCE,ARMY,,42,2HI,C4,,,,Lewis & Clark College
+204,O,1,10,,47,Run,,,10,,DEUCE,ARMY,,51,2HI,C4,,,,Lewis & Clark College
+6,O,1,10,M,34,Run,P-L,,3,Rush,TRES,ARMY 1,,42,2HI,C1,,MOSES 4 MAN,,Linfield College
+107,O,1,10,L,42,Run,P-R,,0,Rush,TRIO,ARMY 1,,42,2HI,C3,,,,Linfield College
+122,O,1,10,R,-39,Run,P-R,,2,Rush,DOUBLES,ARMY 1,,32,2HI,C3,,,,Linfield College
+133,O,2,2,R,4,Run,P-L,,1,Rush,DEUCE,ARMY 1,,42,0,,6I,,,Linfield College
+134,O,3,1,R,3,Run,C-R,,0,Rush,TRES,ARMY 1,,43,1HI,,5L,,,Linfield College
+178,O,1,10,R,-20,Run,,,-4,Fumble,DOUBLES,ARMY 1,,33,2HI,C3,4R,,,Linfield College
+33,O,1,10,L,-29,Run,B-R,,5,Rush,DOUBLES,ARMY 2,,41,2HI,C3,,,,Linfield College
+55,O,2,1,L,-34,Run,P-R,,2,Rush,DOUBLES,ARMY 2,,41,2HI,C3,,,,Linfield College
+165,O,2,7,R,-28,Run,P-L,,5,Rush,DOUBLES,ARMY 2,,32,2HI,C3,,,,Linfield College
+170,O,1,10,M,33,Run,P-R,,8,Rush,DOUBLES,ARMY 2,,33,2HI,C2,,,,Linfield College
+43,O,1,15,R,43,Pass,,3,-1,Complete,50,ARMY NOW,,32,2HI,C1,5L,,,Linfield College
+171,O,2,2,R,25,Run,C-R,,-1,Rush,TRIO,ARMY NOW,,42,2HI,C3,,,,Linfield College
+66,O,1,10,R,-49,Run,P-L,,9,Rush,DOUBLES,ARMY Y-BO,,42,2HI,C4,,,,University of Puget Sound
+91,O,2,10,R,46,Run,P-L,,10,Rush,DOUBLES,ARMY Y-BO,,42,2HI,C4,,,,University of Puget Sound
+135,O,4,1,R,3,Run,C-R,,3,"Rush, TD",DOUBLES,ARMY Y-BO,,43,0,ZERO,6I,,,Linfield College
+25,O,1,10,R,-25,Run,C-R,,9,Rush,DOUBLES,ARMY Y-BO,,33,2HI,OVER,,,,Willamette University
+133,O,2,5,R,10,Run,P-R,,3,Rush,DEUCE,ARMY Y-BO,,33,2HI,OVER,4R,,,Willamette University
+134,O,3,2,R,7,Run,P-R,,0,Rush,DEUCE,ARMY Y-BO,,34,2HI,ZERO,,,,Willamette University
+156,O,2,8,M,50,Pass,,3,5,Complete,DOUBLES,ARMY Y-BO,,43,2HI,OVER,,,,Willamette University
+83,O,1,10,,46,Pass,,,12,,ACE,ARMY Y-BO,,42,2HI,24,4L,,,Lewis & Clark College
+130,O,1,10,,-18,Run,,,4,,ACE,ARMY Y-BO,,42,2HI,24,,,,Lewis & Clark College
+137,O,1,10,,39,Pass,,,0,,ACE,ARMY Y-BO,,42,2HI,C3,,,,Lewis & Clark College
+163,O,1,10,,26,Run,,,3,,DOUBLES,ARMY Y-BO,,33,2HI,C2,,,,Lewis & Clark College
+182,O,2,9,,-10,Pass,,,0,,DOUBLES,ARMY Y-BO,,32,2HI,C2,4I,,,Lewis & Clark College
+146,O,1,10,,-41,Run,,,5,,DEUCE,ARMY Y-BO,,32,1HI,C3,,,,Linfield College
+94,O,1,10,M,33,Run,B-L,,13,Rush,DOUBLES,ARMY Y-BO,,42,2HI,C2,,,,Chapman University
+168,O,2,4,R,50,Pass,,3,2,Complete,DOUBLES,ARMY Y-BO,,43,2HI,21,,,,Chapman University
+10,O,1,10,M,-20,Run,B-R QB,,10,Rush,DOUBLES,ARMY Y-BO,,43,2HI,OVER,,,,University of La Verne
+136,O,2,7,R,-33,Pass,,3,8,Complete,DOUBLES,ARMY Y-BO,,42,2HI,C4,,,,University of La Verne
+196,O,2,6,M,-21,Run,C-R,,3,Rush,DOUBLES,ARMY Y-BO,,41,2HI,C1,,,,Whittier College
+3,O,2,6,L,-45,Pass,,1,0,Incomplete,DOUBLES,ASHER,,32,2HI,C3,5R,,,Pacific University
+27,O,1,10,R,-38,,,,,Fumble,DOUBLES,ASHER,,33,2HI,OVER,,,,Willamette University
+36,O,1,10,L,-19,Run,C-L,,1,Rush,DOUBLES,ASHER,,32,2HI,OVER,,,,Willamette University
+84,O,1,10,L,44,Pass,,1,0,Incomplete,DOUBLES,B1,,42,2HI,C1,6I,,2,George Fox University
+10,O,2,4,,27,Pass,,,27,TD,TRIO,B1,,32,2HI,C2,4R,,,Lewis & Clark College
+47,O,1,10,L,-37,Pass,,,-10,Penalty,TRIO,B1,,42,1HI,C3,,,,University of La Verne
+151,O,2,12,R,-23,Pass,,3,0,Incomplete,TRIO,B1,,42,1HI,21,,,,University of La Verne
+201,O,3,8,M,46,Pass,,5,0,Incomplete,TRIO,B1,,42,1HI,OVER,,,,University of La Verne
+69,O,2,9,R,-30,Pass,,7,24,Complete,TRIO,B1 -X FLAG,,42,2HI,3ROLL,4R,,,Chapman University
+145,O,2,12,L,-18,Pass,,1,3,Complete,TRIO,B1 FLAG,,33,2HI,C3,,,,Linfield College
+141,O,3,5,,19,Pass,,,0,,TRIO,B1 FLAG,,50,2HI,ROBBER,,,,Lewis & Clark College
+169,O,1,10,M,14,Pass,,5,,Interception,TRIO,B1 POST,,42,1HI,OVER,,,,University of La Verne
+88,O,3,6,R,27,Pass,,3,-2,Complete,DOUBLES,B1 UTAH,,42,2HI,C2,,,2,George Fox University
+25,O,1,10,,-15,Pass,,,4,,DOUBLES,B1 UTAH,,41,2HI,C2,,,,Linfield College
+93,O,2,10,R,-32,Pass,B-L QB,,6,Scramble,TRIO,B1 Z-FLAG,,42,2HI,2MAN,,,,Linfield College
+110,O,1,10,R,35,Pass,,1,15,Complete,TRIO,B1 Z-FLAG,,32,2HI,C2,4I,,,Pacific University
+187,O,3,5,R,15,Pass,,4,0,Incomplete,TRIO,B1 Z-FLAG,,33,2HI,2MAN,4I,,,Pacific University
+110,O,1,10,M,-5,Pass,,6,0,Incomplete,TRIO,B1 Z-FLAG,,52,1HI,C3,,,,Chapman University
+91,O,2,7,R,-38,Pass,,7,0,Incomplete,TRIO,B2,,33,1HI,C1,4I,OVER,,Pacific University
+189,O,3,3,,49,Pass,,,10,,TRIO,B2,,42,2HI,C3,,,,Linfield College
+29,O,1,19,L,31,Pass,,1,1,Complete,DOUBLES,B2 FOWLER,,33,2HI,3ROLL,,,1,George Fox University
+36,O,3,6,L,26,Pass,,1,15,Complete,DOUBLES,B2 FOWLER,,42,2HI,C4,,,,University of Puget Sound
+53,O,3,6,M,-24,Pass,,1,11,Complete,TRIO,B3,,51,2HI,3ROLL,4I,,1,George Fox University
+124,O,3,5,L,24,Pass,,3,12,Complete,TRIO,B3,,42,2HI,3ROLL,5I,,3,George Fox University
+8,O,3,6,M,34,Pass,,,-5,Penalty,TRIO,B3,,33,1HI,OVER,,,,University of Puget Sound
+22,O,3,3,R,-48,Pass,,1,0,Incomplete,TRIO,B3,,33,1HI,C3,5O,,,Pacific Lutheran University
+54,O,3,6,M,30,Pass,,3,6,Complete,TRIO,B3,,32,2HI,C2,4L,,,Willamette University
+111,O,1,10,L,50,Pass,,1,0,Incomplete,TRIO,B3,,33,2HI,C3,,,,Willamette University
+7,O,2,10,,45,Pass,,,0,,TRIO,B3,,41,2HI,C2,,,,Lewis & Clark College
+165,O,3,4,,20,Pass,,,7,,TRIO,B3,,42,2HI,ROBBER,,,,Lewis & Clark College
+40,O,3,4,R,32,Pass,,6,0,Incomplete,TRIO,B3,,42,2HI,3ROLL,,,,Chapman University
+41,O,4,4,R,32,Pass,,2,8,Complete,TRIO,B3,,42,2HI,3ROLL,,,,Chapman University
+169,O,3,2,R,48,Pass,,1,0,Complete,TRIO,B3,,42,2HI,C3,,,,Chapman University
+14,O,1,10,L,-46,Pass,,1,4,Complete,TRIO,B3,,42,1HI,21,,,,University of La Verne
+53,O,3,5,R,46,Pass,,2,4,Complete,TRIO,B3,,42,1HI,C1,5I,,,University of La Verne
+164,O,2,5,L,32,Pass,,,-5,Penalty,TRIO,B3,,42,1HI,,,?,,University of La Verne
+167,O,1,10,R,27,Pass,,1,7,Complete,TRIO,B3,,42,1HI,C4,,,,University of La Verne
+208,O,3,6,R,45,Pass,,,5,Penalty,TRIO,B3,,42,,3ROLL,,,,University of La Verne
+7,O,1,10,L,39,Pass,,2,8,Complete,TRIO,B3,,33,2HI,C1,5R,,,Whittier College
+126,O,2,10,R,12,Pass,,1,4,Complete,TRIO,B3 MONEY,,33,2HI,C3,4I,,3,George Fox University
+64,O,1,10,R,-7,Run,P-R,,3,Rush,PISTOL,BEARS,,42,2HI,C3,,,2,George Fox University
+63,O,2,3,L,33,Run,B-R,,2,Rush,DEUCE,BEARS,,42,1HI,C1,,,,University of Puget Sound
+69,O,2,8,M,37,Run,C-L,,2,Rush,BULLET,BEARS,,42,2HI,C3,,,,University of Puget Sound
+78,O,1,10,L,-35,Run,,,-6,Rush,BULLET,BEARS,,43,1HI,C3,,,,University of Puget Sound
+95,O,1,10,L,22,Run,C-L,,-3,Rush,DEUCE,BEARS,,70,1HI,ZERO,7,,,University of Puget Sound
+59,O,1,10,L,39,Run,B-R,,6,Rush,TRIO,BEARS,,33,1HI,C3,5O,,,Pacific Lutheran University
+155,O,1,10,L,-16,Run,B-R,,-5,Rush,DOUBLES,BEARS,,33,1HI,C3,6I,,,Pacific Lutheran University
+132,O,1,10,L,12,Pass,,3,8,Complete,TRES,BEARS,,41,2HI,,,,,Linfield College
+164,O,1,10,M,-25,Run,B-R,,3,Rush,BULLET,BEARS,,34,2HI,,4I,MOSES - 3 MAN,,Linfield College
+97,O,1,10,L,32,Run,C-L,,2,Rush,BULLET,BEARS,,33,2HI,C3,,,,Willamette University
+132,O,1,10,R,15,Run,B-R,,5,Rush,DEUCE,BEARS,,33,2HI,C3,,,,Willamette University
+169,O,2,8,M,-22,Run,B-R,,5,Rush,BULLET,BEARS,,52,0,ZERO,5O,,,Willamette University
+65,O,1,10,,-20,Run,,,-3,Rush,BONE,BEARS,,34,2HI,C1,4R,,,Lewis & Clark College
+191,O,1,10,R,-39,Run,B-R,,14,Rush,BULLET,BEARS,,43,1HI,C3,,,,Chapman University
+193,O,2,2,R,39,Run,P-R,,5,Rush,BULLET,BEARS,,42,2HI,C4,,,,Chapman University
+160,O,1,10,R,26,Run,B-R,,2,Rush,BULLET,BEARS,,43,2HI,C1,,,,Whittier College
+177,O,1,10,L,25,Run,P-R,,5,Rush,BULLET,BEARS,,42,2HI,C1,,,,Whittier College
+34,O,2,5,R,-34,Pass,,4,0,Incomplete,TRIO,BERRY,,33,2HI,C2,,MOSES - 3 MAN,,Linfield College
+65,O,2,7,R,-10,Run,P-L,,1,Rush,PISTOL,BILLS,,42,2HI,C3,,,2,George Fox University
+220,O,2,11,M,-43,Run,B-L,,1,Rush,BULLET,BILLS,,42,2HI,C3,,,4,George Fox University
+26,O,1,10,R,-30,Run,B-L,,-1,Rush,DEUCE,BILLS,,42,1HI,C3,,,,University of Puget Sound
+93,O,2,8,R,33,Run,P-L,,0,Rush,BULLET,BILLS,,61,0,ZERO,7,,,University of Puget Sound
+16,O,1,10,R,-19,Run,B-L,,-1,Rush,50,BILLS,,33,1HI,C3,4L,,,Pacific Lutheran University
+2,O,1,10,L,-25,Pass,,1,-1,Complete,TRIO,BILLS,,42,2HI,2MAN,,,,Linfield College
+132,O,2,17,,-11,Run,,,-1,Rush,DEUCE,BILLS,,42,2HI,C3,,,,Lewis & Clark College
+175,O,1,10,,-21,Run,,,-2,Rush,BULLET,BILLS,,42,2HI,C4,,,,Linfield College
+1,O,1,10,R,-25,Pass,,8,26,Complete,DOUBLES,BINGO,,33,2HI,C4,,,,University of Puget Sound
+73,O,3,23,L,-43,Pass,,,-4,Sack,50,BINGO,,33,1HI,C3,4I,,,Pacific Lutheran University
+92,O,1,10,R,-32,Pass,,3,0,Incomplete,DOUBLES,BINGO,,33,2HI,C3,4I,,,Linfield College
+46,O,2,8,M,28,Pass,,3,0,Incomplete,DOUBLES,BINGO,,34,1HI,21,,,,Pacific University
+112,O,2,6,L,16,Pass,,,14,Penalty,DOUBLES,BINGO,,32,2HI,C1,,,,Pacific University
+37,O,2,9,L,-20,Pass,,3,1,Complete,DOUBLES,BINGO,,32,2HI,OVER,4I,,,Willamette University
+109,O,2,11,L,-38,Pass,,3,9,Complete,DOUBLES,BINGO,,33,2HI,C2,,,,Willamette University
+67,O,3,7,,-23,Pass,,,-5,Sack,DOUBLES,BINGO,,43,2HI,C2,,,,Lewis & Clark College
+104,O,2,10,R,-28,,,,15,Penalty,TRIO,C1,,51,2HI,3ROLL,5L,,2,George Fox University
+11,O,3,7,L,-23,Pass,,,0,Scramble,TRIO,C1,,42,2HI,C3,5I,,,Chapman University
+81,O,2,2,R,-41,Pass,,7,59,"Complete, TD",TRIO,C1 - C2,,33,1HI,C1,,,,Pacific University
+132,O,2,8,M,-33,Pass,,6,0,Incomplete,DOUBLES,C1 - C2,,33,2HI,C2,,,,Pacific University
+126,O,1,10,,-29,Pass,,,0,,50,C1 C2,,32,2HI,C2,,,,Linfield College
+146,O,3,9,L,-21,Pass,,,-9,Sack,DOUBLES,C1 CALI,,33,2HI,C3,,,,Linfield College
+25,O,1,10,L,41,Pass,,4,0,Incomplete,DOUBLES,C1 SOAR,,42,2HI,C4,4I,,1,George Fox University
+196,O,1,10,L,-35,Pass,,1,6,Complete,DOUBLES,C1 SOAR,,42,2HI,3ROLL,,,4,George Fox University
+33,O,3,9,L,-44,Pass,,1,0,Incomplete,TRIO,C1 VANDAL,,42,1HI,C3,,,,University of Puget Sound
+158,O,3,15,R,-49,Pass,,6,30,Complete,TRIO,C1 VANDAL,,33,1HI,C1,5L,,,Pacific University
+64,O,3,10,R,-49,Pass,B-R,,13,Scramble,TRIO,C1 VANDAL,,42,2HI,3ROLL,,,,Whittier College
+108,O,3,7,R,-43,Pass,,6,28,Complete,TRIO,C1 VANDAL,,42,2HI,3ROLL,,,,Whittier College
+113,O,3,15,R,34,Pass,,,10,Penalty,TRIO,C1 VANDAL,,41,2HI,2MAN,,,,Whittier College
+41,O,3,12,M,-1,Pass,,3,11,Complete,TRIO,C2,,33,2HI,3ROLL,,,1,George Fox University
+199,O,2,3,R,44,Pass,,8,24,Complete,DOUBLES,C2,EXP,42,2HI,3ROLL,,,4,George Fox University
+114,O,3,9,,31,Pass,,,0,,BULLET,C2,,32,2HI,2MAN,4R,,,Linfield College
+23,O,1,10,M,46,Pass,,3,5,Complete,DOUBLES,C2,,42,2HI,C4,,,,Chapman University
+118,O,3,5,M,-24,Pass,,1,0,Incomplete,DOUBLES,C2,,43,2HI,OVER,4R,,,Chapman University
+81,O,2,7,L,20,Pass,,,15,Penalty,DOUBLES,C2,,41,2HI,2MAN,,,,University of La Verne
+114,O,2,9,R,15,Pass,,4,0,Incomplete,TRIO,C2,,42,1HI,C1,5R,,,University of La Verne
+33,O,2,6,M,-27,Pass,P-L QB,,12,Scramble,DOUBLES,C2,,42,2HI,C1,6I,,,Whittier College
+49,O,2,10,M,-41,Pass,B-R QB,,0,Scramble,DOUBLES,C2,,42,2HI,C1,6I,,,Whittier College
+97,O,2,10,L,-37,Pass,,5,0,Incomplete,TRIO,C2,,41,2HI,OVER,,,,Whittier College
+115,O,2,10,R,24,Pass,,9,0,Incomplete,50,C2,,42,2HI,3ROLL,,,,Whittier College
+173,O,2,16,R,47,Pass,,,-7,Sack,DOUBLES,C2,,42,2HI,C4,,,,Whittier College
+109,O,2,10,R,-37,Pass,,9,28,Complete,DOUBLES,C2 JAZZ,,33,2HI,C2,,?,,Pacific University
+39,O,3,8,R,21,Pass,,7,21,TD,TRIO,C3,,43,1HI,C3,,,,University of La Verne
+106,O,3,9,L,10,Pass,,4,0,Incomplete,TRIO,C3,,42,1HI,C1,5R,,,University of La Verne
+151,O,2,8,L,-28,Pass,,4,17,Complete,TEXAS,COLORADO,EXP,33,2HI,3ROLL,4I,,3,George Fox University
+55,O,1,10,R,-34,Pass,,3,0,Incomplete,50,COLORADO,,41,1HI,C3,,,,University of Puget Sound
+128,O,1,10,R,31,Pass,,5,31,"Complete, TD",TEXAS,COLORADO,,33,0,ZERO,6I,,,Pacific Lutheran University
+21,O,1,10,R,-18,Pass,B-R QB,,18,Scramble,TEXAS,COLORADO,,42,2HI,C2,,,,Linfield College
+6,O,1,10,,45,Pass,,,0,,TEXAS,COLORADO,,42,2HI,C2,,,,Lewis & Clark College
+11,O,3,6,,27,Pass,,,0,,TEXAS,COLORADO,,32,2HI,2MAN,,,,Linfield College
+64,O,1,10,L,28,Pass,,1,8,Complete,TEXAS,COLORADO,,42,2HI,C1,,,,University of La Verne
+66,O,1,10,R,17,Pass,,2,17,TD,TEXAS,COLORADO,,42,0,ZERO,6O,,,University of La Verne
+157,O,2,13,L,25,Pass,,3,3,Complete,PISTOL,COWBOY,,42,2HI,C3,,,3,George Fox University
+88,O,3,9,M,18,Pass,,,-10,Penalty,DEUCE,COWBOY,,43,0,OVER,,,,University of Puget Sound
+28,O,1,10,,-30,Run,,,21,,TRIO,DALLAS,,42,2HI,C3,,,,Linfield College
+60,O,2,10,,-20,Run,,,3,,TRIO,DALLAS,,42,2HI,C2,,INVERT?,,Linfield College
+78,O,1,10,R,-10,Run,P-L,,6,Rush,DOUBLES,DUCKS,,42,2HI,3ROLL,,,2,George Fox University
+120,O,1,10,R,47,Run,P-R,,1,Rush,DOUBLES,DUCKS,,42,2HI,C2,4L,,2,George Fox University
+30,O,1,10,L,-43,Run,P-L,,1,Rush,TRIO,DUCKS,,42,1HI,C3,,,,University of Puget Sound
+52,O,3,10,L,-28,Run,P-L,,2,Rush,DOUBLES,DUCKS,,42,2HI,C2,,,,University of Puget Sound
+73,O,3,10,L,40,Run,P-L,,12,Rush,TRIO,DUCKS,,33,1HI,C1,5L,,,University of Puget Sound
+5,O,3,18,R,-13,,,,0,Timeout,TRIO,DUCKS,,33,1HI,,,,,Pacific Lutheran University
+6,O,3,18,R,-13,Run,P-L,,1,Rush,TRIO,DUCKS,,33,1HI,C3,5O,,,Pacific Lutheran University
+92,O,2,9,L,-21,Pass,,1,9,Complete,TRIO,DUCKS,,33,1HI,C3,5R,,,Pacific Lutheran University
+156,O,2,15,R,-11,Pass,,3,6,Complete,TRIO,DUCKS,,33,1HI,C3,5O,,,Pacific Lutheran University
+23,O,2,12,R,-29,Run,P-L,,-1,Rush,TEXAS,DUCKS,,42,2HI,C2,,,,Linfield College
+45,O,3,28,L,-44,Run,P-R,,1,Rush,TRIO,DUCKS,,33,2HI,3ROLL,,,,Linfield College
+2,O,1,10,L,-41,Run,P-L,,4,Rush,TRIO,DUCKS,,33,1HI,C1,,,,Pacific University
+26,O,1,10,M,-25,Pass,,1,9,Complete,TRIO,DUCKS,,33,1HI,C1,,,,Pacific University
+56,O,1,10,R,-19,Run,P-L,,2,Rush,TRIO,DUCKS,,33,1HI,C1,,,,Pacific University
+210,O,2,8,R,44,Run,P-L,,13,Rush,DOUBLES,DUCKS,,33,2HI,24,,,,Pacific University
+86,O,1,10,L,-26,Run,P-L,,4,Rush,TRIO,DUCKS,,32,UMBRELLA,C3,,,,Willamette University
+90,O,2,13,L,-30,Run,P-L,,0,Rush,TRIO,DUCKS,,31,UMBRELLA,C3,,,,Willamette University
+115,O,2,10,R,39,Run,P-L,,-2,Rush,DOUBLES,DUCKS,,42,2HI,C2,,,,Willamette University
+138,O,2,10,L,42,Run,P-L,,4,Rush,DOUBLES,DUCKS,,33,2HI,C2,,,,Willamette University
+161,O,2,10,,37,Run,,,9,,TRIO,DUCKS,,42,2HI,24,,,,Lewis & Clark College
+168,O,3,5,,8,Run,,,-2,Rush,TRIO,DUCKS,,51,0,OVER,5L,,,Lewis & Clark College
+39,O,2,6,R,34,Run,C-R,,2,Rush,TRIO,DUCKS,,42,2HI,3ROLL,,,,Chapman University
+93,O,1,10,L,45,Pass,,2,12,Complete,TRIO,DUCKS,,42,2HI,C4,,,,Chapman University
+146,O,1,10,R,17,Run,B-L,,2,Rush,TRIO,DUCKS,,42,1HI,ROBBER,,,,Chapman University
+38,O,2,6,R,19,Run,P-R,,-2,Rush,DOUBLES,DUCKS,,41,1HI,C1,5R,,,University of La Verne
+162,O,1,10,L,-49,Run,P-L,,14,Rush,DOUBLES,DUCKS,,42,2HI,C4,,,,University of La Verne
+177,O,1,10,L,10,Run,P-L,,,Fumble,DOUBLES,DUCKS,,42,0,ZERO,6I,,,University of La Verne
+81,O,1,10,R,-29,Run,P-L,,11,Rush,TRIO,DUCKS,,41,2HI,2MAN,,,,Whittier College
+109,O,1,10,R,29,Pass,,,-10,Penalty,TRIO,DUCKS,,41,2HI,C4,,,,Whittier College
+122,O,2,10,R,-27,Run,P-L,,7,Rush,TRIO,DUCKS,,41,2HI,2MAN,,,,Whittier College
+141,O,4,2,L,17,Run,P-L,,4,Rush,TRIO,DUCKS,,42,0,C1,,,,Whittier College
+171,O,1,10,L,41,Run,,,-10,Penalty,TRIO,DUCKS,,41,2HI,C4,,,,Whittier College
+2,O,1,10,L,-40,Pass,,1,4,Complete,TRIO,ECHO,,42,2HI,C3,,,1,George Fox University
+3,O,2,2,L,42,Run,P-L,,1,Rush,TRIO,ECHO,,33,2HI,C3,,,,University of Puget Sound
+19,O,1,10,R,49,Pass,,1,1,Complete,TRIO,ECHO,,61,0,ZERO,,,,University of Puget Sound
+20,O,2,9,L,48,Pass,,,0,Timeout,DOUBLES,ECHO,,32,2HI,,,,,University of Puget Sound
+31,O,1,10,L,-46,Run,P-R,,6,Rush,DOUBLES,ECHO,,33,1HI,C3,5L,,,Pacific Lutheran University
+95,O,1,10,L,-49,Run,B-L QB,,8,Rush,DOUBLES,ECHO,,33,1HI,C3,5I,,,Pacific Lutheran University
+126,O,1,10,R,-38,Run,P-R,,9,Rush,DOUBLES,ECHO,,33,1HI,C3,,,,Pacific Lutheran University
+127,O,2,1,R,-47,Run,B-L QB,,22,Rush,DOUBLES,ECHO,,33,1HI,C3,5R,,,Pacific Lutheran University
+126,O,1,10,R,35,Pass,,1,6,Complete,DOUBLES,ECHO,,42,2HI,C2,,,,Linfield College
+5,O,1,10,L,27,Run,P-R,,1,Rush,DOUBLES,ECHO,,33,2HI,C2,,,,Pacific University
+32,O,1,5,R,5,Run,P-R,,2,Rush,DOUBLES,ECHO,,33,0,ZERO,,,,Pacific University
+45,O,1,10,L,30,Run,P-R,,2,Rush,DOUBLES,ECHO,,33,2HI,C2,,,,Pacific University
+96,O,2,2,R,24,Pass,,1,0,Incomplete,DOUBLES,ECHO,,33,2HI,C2,,,,Pacific University
+98,O,1,10,M,14,Run,P-L,,5,Rush,DOUBLES,ECHO,,32,2HI,24,,,,Pacific University
+20,O,1,10,,15,Run,,,3,,DOUBLES,ECHO,,34,2HI,C2,,,,Lewis & Clark College
+39,O,1,10,,16,Pass,,,9,,DOUBLES,ECHO,,33,2HI,C2,,,,Lewis & Clark College
+42,O,2,9,,2,Run,,,2,TD,DOUBLES,ECHO,,34,0,ZERO,6O,,,Lewis & Clark College
+116,O,1,10,,31,Run,,,5,,DOUBLES,ECHO,,33,2HI,C2,,,,Lewis & Clark College
+4,O,1,10,,-42,Run,,,11,,TRIO,ECHO,,42,2HI,C4,,3 IN BOUNDARY,,Linfield College
+185,O,1,10,,-34,Pass,,,-1,Complete,TRIO,ECHO SURPRISE,,42,2HI,C3,,,,Linfield College
+118,O,3,3,,3,Pass,,,0,,TRIO,ELWAY,,50,0,ZERO,,,,Linfield College
+127,O,2,4,L,29,Pass,,1,0,Incomplete,DOUBLES,FALCON EVEN ARK (PILOT),,32,2HI,C3,4I,,,Linfield College
+44,O,3,5,L,46,Pass,,1,16,Complete,DOUBLES,FALCON EVEN ARK (PILOT),,33,2HI,C2,4L,,,Pacific University
+115,O,2,2,L,2,Pass,,2,0,Incomplete,DOUBLES,FALCON EVEN ARK (PILOT),,34,0,ZERO,5I,,,Pacific University
+99,O,3,5,L,27,Pass,,1,12,Complete,DOUBLES,FALCON EVEN ARK (PILOT),,32,2HI,3ROLL,,,,Willamette University
+155,O,1,10,M,-25,Pass,,3,1,Complete,TRES,FALCON ODD SEATTLE,,33,2HI,,4I,,,Linfield College
+6,O,2,9,M,26,Pass,,,-7,Sack,50,FOWLER,,33,2HI,C1,,?,,Pacific University
+55,O,1,10,L,-35,Pass,,7,65,TD,TRIO,GONZAGA,EXP,33,2HI,C2,4R,,2,George Fox University
+59,O,1,10,,-20,Pass,,,0,,TRIO,GONZAGA,,42,2HI,ROBBER,,,,Linfield College
+15,O,2,1,L,33,Run,P-R,,2,Rush,DOUBLES,GREEN,,42,2HI,C2,,,1,George Fox University
+20,O,1,10,M,-25,Run,P-R,,9,Rush,TRIO,GREEN,,32,2HI,21,4R,,,Chapman University
+75,O,2,5,L,5,Run,B-R,,4,Rush,TRIO,GREEN,,42,1HI,ZERO,,,,Chapman University
+138,O,1,10,L,-27,Run,B-R,,2,Rush,DOUBLES,GREEN,,42,2HI,21,,,,Chapman University
+167,O,1,10,L,-44,Run,P-R,,6,Rush,DOUBLES,GREEN,,52,2HI,ZERO,,,,Chapman University
+179,O,3,3,L,-32,Run,P-R,,0,Rush,TRIO,GREEN,,42,1HI,C1,,,,Chapman University
+52,O,2,6,R,47,Run,P-R,,1,Rush,DOUBLES,GREEN,,42,2HI,C2,,,,University of La Verne
+137,O,1,10,R,-41,Run,P-R,,3,Rush,DOUBLES,GREEN,,43,2HI,C4,,,,University of La Verne
+189,O,1,10,R,-46,Run,,,-7,Penalty,DOUBLES,GREEN,,42,2HI,C4,,,,University of La Verne
+212,O,3,6,L,35,Run,B-R,,2,Rush,BULLET,GREEN,,43,2HI,C4,,,,University of La Verne
+135,O,1,15,L,-47,Run,C-R,,9,Rush,DOUBLES,GREEN,,43,2HI,OVER,,,,Whittier College
+157,O,1,10,R,43,Run,B-R,,2,Rush,DEUCE,GREEN,,42,2HI,ZERO,,,,Whittier College
+172,O,1,20,L,-49,Run,P-R,,4,Rush,DOUBLES,GREEN,,42,2HI,C4,,,,Whittier College
+215,O,2,5,L,42,Run,P-R,,1,Rush,DOUBLES,GREEN,,41,2HI,OVER,,,,Whittier College
+180,O,3,11,L,-19,Pass,,,-1,Sack,DOUBLES,H QK 88 SEATTLE,,33,2HI,C3,4I,,,Linfield College
+127,O,3,6,L,8,Pass,,3,0,Incomplete,DOUBLES,H QK ARK,,51,2HI,C4,5I,,3,George Fox University
+100,O,2,10,M,20,Pass,,7,0,Incomplete,DOUBLES,H QK ARK,,33,1HI,C3,5I,,,Pacific Lutheran University
+40,O,2,1,,7,Pass,,,4,,DOUBLES,H QK ARK,,34,1HI,ZERO,6O,,,Lewis & Clark College
+154,O,4,3,,27,Pass,,,5,,DOUBLES,H QK ARK,,42,2HI,C1,4R,,,Linfield College
+169,O,4,4,,49,Pass,,,,,DOUBLES,H QK ARK,,33,2HI,C3,,,,Linfield College
+96,O,1,10,L,4,Pass,,4,0,Incomplete,DOUBLES,H QK ARK,,42,0,OVER,,,,Chapman University
+98,O,2,4,L,4,Pass,,2,0,Incomplete,DOUBLES,H QK ARK,,42,0,OVER,,,,Chapman University
+21,O,2,7,,12,Pass,,,6,Penalty,DOUBLES,H QK ARK SLUGGO,,42,2HI,OVER,,,,Lewis & Clark College
+42,O,1,10,R,38,,,,-5,Penalty,50,H QK ARMY NOW,,41,2HI,C1,5L,,,Linfield College
+70,O,1,10,L,15,Pass,,4,0,Incomplete,DOUBLES,H QK B1 $$$,,33,2HI,C4,4I,,,Willamette University
+113,O,2,9,,31,Run,,,0,,DOUBLES,H QK OSCAR,,42,2HI,C3,,,,Linfield College
+155,O,1,10,,22,Pass,,,4,,DOUBLES,H QK OSCAR,,33,2HI,C3,,,,Linfield College
+125,O,2,10,M,50,Pass,,3,15,Complete,DOUBLES,H QK PAPER,,33,2HI,C1,4I,,,Linfield College
+129,O,1,10,L,9,Pass,,3,0,Incomplete,DOUBLES,H QK RED ARK,,33,2HI,C1,4L,,,Linfield College
+100,O,3,5,M,9,Pass,P-L QB,,4,Scramble,DOUBLES,H QK RED ARK,,32,2HI,C1,,,,Pacific University
+85,O,2,10,L,44,Pass,,6,13,Complete,DOUBLES,H QK SEATTLE,,42,2HI,3ROLL,5L,,2,George Fox University
+72,O,2,15,L,49,Pass,,,-8,Sack,DOUBLES,H QK SEATTLE,,33,1HI,C3,5O,BO. SCREEN,,Pacific Lutheran University
+11,O,1,10,M,-30,Pass,,3,8,Complete,DOUBLES,H QK SEATTLE,,43,2HI,OVER,,,,University of La Verne
+99,O,2,5,L,47,Pass,,3,11,Complete,DOUBLES,H QK SEATTLE,,42,1HI,OVER,,,,University of La Verne
+142,O,3,15,M,-33,Pass,,,0,Sack,50,H QK VANDAL,,33,0,C1,6I,,,Pacific Lutheran University
+101,O,2,9,M,35,Pass,,7,0,Incomplete,BULLET,HAT AIR FORCE,,42,2HI,C2,,,,University of La Verne
+50,O,1,10,M,-20,Run,C-R,,0,Rush,BULLET,HAT ARMY,,42,2HI,C3,,,1,George Fox University
+198,O,1,10,R,-49,Run,P-L,,7,Rush,BULLET,HAT ARMY,,42,2HI,C4,5I,,4,George Fox University
+174,O,2,10,R,-15,Run,P-L,,0,Rush,BULLET,HAT ARMY,,33,2HI,C3,5O,,,Pacific Lutheran University
+153,O,1,10,M,-37,Run,P-L,,6,Rush,BULLET,HAT ARMY,,32,2HI,C3,,B2,,Willamette University
+109,O,1,10,,-26,Run,,,5,,BULLET,HAT ARMY,,42,2HI,ROBBER,,,,Lewis & Clark College
+135,O,2,11,,-44,Run,,,3,,BULLET,HAT ARMY,,42,2HI,C3,,,,Lewis & Clark College
+82,O,1,10,,-23,Run,,,2,,BULLET,HAT ARMY,,41,2HI,C2,,,,Linfield College
+192,O,1,10,R,47,Run,P-L,,8,Rush,BULLET,HAT ARMY,,43,2HI,C2,,,,Chapman University
+56,O,1,10,L,34,Run,P-L,,3,Rush,BULLET,HAT ARMY,,42,1HI,21,,,,University of La Verne
+118,O,1,10,L,-14,Run,C-R,,4,Rush,BULLET,HAT ARMY,,42,2HI,C1,,,,Whittier College
+119,O,2,6,L,-18,Pass,,3,4,Complete,BULLET,HAT ARMY,,42,0,C1,,,,Whittier College
+181,O,1,10,L,11,Pass,,3,-2,Complete,BULLET,HAT ARMY,,42,0,ZERO,,,,Whittier College
+216,O,3,4,M,41,Run,C-R,,7,Penalty,BULLET,HAT ARMY,,42,2HI,C2,,,,Whittier College
+133,O,1,10,L,-40,Pass,,3,-6,Complete,BULLET,HAT B2,,43,2HI,C4,,,,Whittier College
+70,O,1,10,,27,Pass,,,27,TD,BULLET,HAT DBL POSTS,,33,2HI,C2,,,,Lewis & Clark College
+136,O,3,8,,-47,Pass,,,14,,BULLET,HAT DBL POSTS FLAG,,42,2HI,ROBBER,,,,Lewis & Clark College
+134,O,2,15,R,-34,Pass,,2,18,Complete,BULLET,HAT LARRY,,43,2HI,C2,,,,Whittier College
+41,O,2,7,R,-44,Pass,,7,0,Incomplete,DOUBLES,HAWAII,,42,2HI,OVER,4R,,,University of Puget Sound
+86,O,3,5,,29,Pass,,,0,,DOUBLES,HAWAII,,42,2HI,C4,,,,Lewis & Clark College
+160,O,1,10,,37,Pass,,,0,,TRIO,HAWAII,,42,2HI,C4,,,,Lewis & Clark College
+155,O,2,5,L,-31,Pass,,1,4,Complete,DOUBLES,HAWAII,,43,2HI,OVER,,,,Chapman University
+108,O,1,10,L,47,Pass,,,-10,Penalty,DOUBLES,IDAHO,,42,2HI,3ROLL,,,2,George Fox University
+158,O,3,10,R,22,Pass,,,-15,Penalty,TRIO,IDAHO,,42,2HI,3ROLL,5I,,3,George Fox University
+42,O,3,7,R,-44,Pass,,6,11,Complete,TRIO,IDAHO,,33,1HI,ROBBER,,,,University of Puget Sound
+59,O,3,6,M,-29,Pass,,,1,Rush,DOUBLES,IDAHO,,41,2HI,C3,,,,University of Puget Sound
+96,O,2,2,L,43,Pass,,5,0,Incomplete,DOUBLES,IDAHO,,33,1HI,C3,5O,,,Pacific Lutheran University
+157,O,3,11,R,-24,Pass,,,-2,Sack,TRIO,IDAHO,,32,2HI,3ROLL,,,,Linfield College
+108,O,1,10,R,-37,Pass,,6,0,Incomplete,TRIO,IDAHO,,33,2HI,C1,5I,,,Pacific University
+133,O,3,8,M,-33,Pass,,1,29,Complete,TRIO,IDAHO,,33,2HI,2MAN,5I,,,Pacific University
+127,O,3,8,R,50,Pass,,3,9,Complete,DOUBLES,IDAHO,,32,UMBRELLA,OVER,,,,Willamette University
+8,O,3,10,,45,Pass,,,12,,TRIO,IDAHO,,41,2HI,24,,,,Lewis & Clark College
+115,O,4,9,,31,Pass,,,23,,50,IDAHO,,32,2HI,2MAN,,,,Linfield College
+55,O,2,6,M,-32,Pass,,6,0,Incomplete,TRIO,IDAHO,,42,2HI,C2,,,,Chapman University
+88,O,1,10,R,-13,Pass,,3,6,Complete,TEXAS,IDAHO,,42,2HI,C2,,,,Chapman University
+129,O,3,7,R,46,Pass,,6,0,Incomplete,DOUBLES,IDAHO,,33,1HI,C3,5R,,,Chapman University
+159,O,3,7,L,-41,Pass,,4,0,Incomplete,TRIO,IDAHO,,41,1HI,C3,5L,,,Chapman University
+2,O,1,10,L,-26,Pass,B-R QB,,-1,Scramble,TRIO,IDAHO,,42,1HI,21,,,,University of La Verne
+15,O,2,6,L,50,Pass,C-L,,10,Penalty,TRIO,IDAHO,,42,1HI,OVER,,,,University of La Verne
+36,O,3,6,L,-40,Pass,,8,37,Complete,TRIO,IDAHO,,42,2HI,3ROLL,,,,University of La Verne
+50,O,3,7,L,-40,Pass,,2,9,Complete,TEXAS,IDAHO,,41,1HI,C1,,,,University of La Verne
+102,O,3,9,M,35,Pass,,4,13,Penalty,TRIO,IDAHO,,41,2HI,2MAN,,,,University of La Verne
+141,O,3,10,R,45,Pass,,,-10,Sack,TRIO,IDAHO,,42,1HI,24,,,,University of La Verne
+191,O,1,32,R,-24,Pass,,3,8,Complete,TRIO,IDAHO,,42,1HI,3ROLL,,,,University of La Verne
+35,O,2,8,R,-41,Pass,,5,19,Complete,TRIO,IDAHO,,42,2HI,C4,,,,Whittier College
+86,O,3,15,L,35,Pass,,4,11,Complete,DOUBLES,IDAHO,,41,2HI,2MAN,,,,Whittier College
+4,O,3,6,L,-45,Pass,,5,23,Complete,DOUBLES,INDY,,33,2HI,C1,4I,?,,Pacific University
+31,O,2,6,R,24,Pass,P-R QB,,19,Scramble,DOUBLES,INDY,,33,2HI,2MAN,4I,,,Pacific University
+92,O,3,7,R,-38,Pass,,2,0,Incomplete,DOUBLES,INDY,,33,2HI,2MAN,4I,,,Pacific University
+2,O,1,10,L,-10,Pass,,,-9,Sack,DOUBLES,INDY,,32,2HI,OVER,,,,Willamette University
+53,O,2,9,R,33,Pass,,,3,Scramble,DOUBLES,INDY,,33,2HI,OVER,4I,,,Willamette University
+83,O,2,11,M,-21,Pass,,1,4,Complete,DOUBLES,JAZZ,,32,0,C1,,,,Linfield College
+108,O,2,10,M,42,Pass,,2,0,Incomplete,DOUBLES,JAZZ,,41,2HI,2MAN,,,,Linfield College
+30,O,1,15,,-46,Pass,,,3,,TRIO,LAKE RANDY,,33,2HI,C3,4L,,,Linfield College
+188,O,2,5,,-49,Pass,,,2,,TRIO,LAKE RANDY,,42,2HI,C3,,,,Linfield College
+90,O,1,10,R,46,Pass,,3,0,Complete,DOUBLES,LAKE RITA,,42,2HI,C4,,,,University of Puget Sound
+3,O,1,20,L,-11,Pass,,3,2,Complete,DOUBLES,LAKE RITA,,33,1HI,C3,5L,,,Pacific Lutheran University
+54,O,1,10,R,-25,Pass,,1,9,Complete,DOUBLES,LAKE RITA,,42,2HI,C2,,,,Linfield College
+144,O,1,10,R,-20,Pass,,1,-2,Complete,DOUBLES,LAKE RITA,,33,2HI,C2,4I,,,Linfield College
+179,O,2,14,R,-16,Pass,,1,3,Complete,DOUBLES,LAKE RITA,,33,2HI,C2,,,,Linfield College
+49,O,2,17,L,-30,Pass,,1,10,Complete,TEXAS,LAKE RITA,,42,2HI,C4,,?,,University of La Verne
+65,O,2,2,L,20,Pass,,3,3,Complete,TEXAS,LAKE RITA,,42,0,ZERO,6I,,,University of La Verne
+105,O,1,10,R,-43,Pass,,3,4,Complete,TRIO,LAKE SALLY,,42,2HI,3ROLL,4L,,2,George Fox University
+201,O,2,8,R,18,Pass,,1,0,Complete,TRIO,LAKE SALLY,,42,2HI,C4,,,4,George Fox University
+142,O,3,8,L,30,Pass,,1,10,Complete,TRIO,LARRY,,42,UMBRELLA,C4,,,,Willamette University
+43,O,2,10,L,24,Pass,,1,0,Incomplete,TRIO,LARRY,,42,2HI,3ROLL,,,,Chapman University
+57,O,2,10,R,-36,Pass,,2,0,Complete,DOUBLES,LEROY,,42,2HI,C2,,,,Linfield College
+130,O,2,10,L,9,Pass,,,-15,Fumble,DOUBLES,LEROY,,42,2HI,C1,5I,,,Linfield College
+16,O,1,10,L,25,Pass,,1,0,Incomplete,TRIO,LIGHTNING,,42,1HI,C3,,,,University of La Verne
+57,O,2,7,L,31,Pass,,1,5,Complete,TRIO,LIGHTNING,,42,1HI,,,?,,University of La Verne
+97,O,3,2,R,24,Run,P-L QB,,10,Rush,DOUBLES,LION,,33,2HI,ZERO,,,,Pacific University
+145,O,3,5,L,15,Run,P-L,,4,Rush,TRIO,LION,,33,0,ZERO,4L,,,Willamette University
+16,O,1,10,L,31,Pass,,7,31,TD,TRIO,LVILLE,EXP,42,2HI,C3,,,1,George Fox University
+202,O,3,8,L,18,Run,,,-10,Penalty,TRIO,LVILLE,,41,2HI,C2,4R,,4,George Fox University
+72,O,1,10,L,22,Pass,,7,0,Incomplete,TRIO,LVILLE,,42,2HI,C4,,,,Chapman University
+24,O,2,10,L,17,Pass,4,,13,Complete,DOUBLES,MONTANA,,32,2HI,C4,,,,University of Puget Sound
+5,O,1,10,R,34,Pass,,3,5,Complete,DOUBLES,NITRO,,42,2HI,3ROLL,,,1,George Fox University
+7,O,1,1,L,3,Run,P-L,,1,Rush,DOUBLES,NITRO,,51,0,OVER,,,1,George Fox University
+67,O,1,10,L,-32,Pass,,1,7,Complete,DOUBLES,NITRO,,33,2HI,C4,4R,,2,George Fox University
+80,O,1,10,M,-36,Pass,,1,5,Complete,DOUBLES,NITRO,,33,2HI,C4,4R,,2,George Fox University
+83,O,1,10,L,44,,,,0,Timeout,DOUBLES,NITRO,,33,2HI,,,,2,George Fox University
+86,O,1,10,R,31,Pass,,3,4,Complete,DOUBLES,NITRO,,33,2HI,,,?,2,George Fox University
+122,O,1,10,M,29,Pass,,1,5,Complete,DOUBLES,NITRO,,33,2HI,C4,4R,,3,George Fox University
+154,O,1,10,R,33,Run,P-L,,11,Rush,DOUBLES,NITRO,,33,2HI,C4,4L,,3,George Fox University
+200,O,1,10,R,20,Run,P-L,,2,Rush,DOUBLES,NITRO,,42,2HI,3ROLL,,,4,George Fox University
+2,O,1,10,L,49,Run,P-L,,7,Rush,DOUBLES,NITRO,,32,2HI,C4,,,,University of Puget Sound
+17,O,1,10,R,-40,Run,P-L,,7,Rush,DOUBLES,NITRO,,33,2HI,C4,,,,University of Puget Sound
+18,O,2,3,R,-47,Run,P-L,,4,Rush,DOUBLES,NITRO,,33,2HI,C4,,,,University of Puget Sound
+34,O,1,10,L,30,Run,P-L,,4,Rush,DOUBLES,NITRO,,42,2HI,C3,,,,University of Puget Sound
+37,O,1,10,L,10,Run,C-R,,0,Rush,DOUBLES,NITRO,,42,2HI,C4,,,,University of Puget Sound
+78,O,,,R,,Run,,,,,DOUBLES,NITRO,,,,,,,,University of Puget Sound
+46,O,1,10,R,33,Run,P-L,,2,Rush,DOUBLES,NITRO,,,2HI,,,,,University of Puget Sound
+67,O,2,1,M,42,Run,P-L,,3,Rush,DOUBLES,NITRO,,41,2HI,C4,,,,University of Puget Sound
+36,O,1,10,L,2,Run,P-L,,2,"Rush, TD",TRIO,NITRO,,51,1HI,C1,6I,,,Pacific Lutheran University
+49,O,1,10,R,-46,Run,P-L,,3,Rush,TRIO,NITRO,,33,1HI,C3,5I,,,Pacific Lutheran University
+60,O,2,4,R,33,Run,P-L,,3,Rush,TRIO,NITRO,,33,1HI,ZERO,6I,,,Pacific Lutheran University
+28,O,1,10,R,47,Pass,,3,6,Complete,TRIO,NITRO,,33,1HI,C2,,20,,Pacific University
+90,O,1,10,R,-35,Run,P-R,,3,Rush,TRIO,NITRO,,33,1HI,21,,,,Pacific University
+55,O,1,10,R,24,Pass,,3,0,Incomplete,TRIO,NITRO,,32,2HI,C3,,,,Willamette University
+110,O,3,2,M,-47,Run,P-L,,3,Rush,TRIO,NITRO,,33,0,OVER,4R,,,Willamette University
+128,O,1,10,R,41,Run,C-R,,6,Rush,TRIO,NITRO,,32,2HI,OVER,,,,Willamette University
+9,O,1,10,,33,Run,,,6,,TRIO,NITRO,,33,2HI,C2,,,,Lewis & Clark College
+5,O,1,10,,47,Pass,,,-1,Complete,DOUBLES,NITRO,,42,2HI,C2,,LEAD QB ISO,,Linfield College
+8,O,1,10,L,-20,Run,P-L,,3,Rush,DOUBLES,NITRO,,42,2HI,24,,,,Chapman University
+21,O,2,1,R,-34,Pass,,3,6,Complete,DOUBLES,NITRO,,43,2HI,21,,,,Chapman University
+27,O,1,5,M,5,Pass,,1,0,Complete,DOUBLES,NITRO,,34,0,OVER,,,,Chapman University
+68,O,1,10,R,-29,Run,C-R,,1,Rush,DOUBLES,NITRO,,33,2HI,C2,,,,Chapman University
+141,O,1,10,L,-41,Run,P-L,,2,Rush,DOUBLES,NITRO,,42,2HI,21,,,,Chapman University
+13,O,3,1,M,-39,Pass,,1,7,Complete,TRIO,NITRO,,42,1HI,C3,,,,University of La Verne
+18,O,1,5,L,5,Run,C-R,,5,TD,TRIO,NITRO,,42,0,ZERO,,,,University of La Verne
+32,O,2,3,L,-32,Pass,,1,2,Complete,TRIO,NITRO,,43,2HI,C2,,,,University of La Verne
+37,O,1,10,R,23,Run,C-R,,4,Rush,TRIO,NITRO,,42,1HI,ZERO,,,,University of La Verne
+51,O,1,10,R,-49,Pass,,3,4,Complete,TRIO,NITRO,,42,0,C3,,,,University of La Verne
+80,O,1,10,L,23,Run,P-L,,3,Rush,TRIO,NITRO,,42,1HI,C4,,,,University of La Verne
+168,O,2,3,L,20,Run,P-L,,6,Rush,TRIO,NITRO,,42,1HI,C4,,,,University of La Verne
+8,O,2,2,R,31,Run,C-R,,0,Rush,DOUBLES,NITRO,,42,2HI,C4,,,,Whittier College
+34,O,1,10,L,-39,Run,P-R,,2,Rush,DOUBLES,NITRO,,41,2HI,C1,,,,Whittier College
+36,O,1,10,R,40,Pass,,1,1,Complete,DOUBLES,NITRO,,,2HI,ZERO,,,,Whittier College
+137,O,3,1,R,39,Run,P-L,,14,Rush,DOUBLES,NITRO,,42,2HI,C4,5I,,,Whittier College
+138,O,1,10,R,25,Run,P-L,,2,Rush,DOUBLES,NITRO,,42,2HI,OVER,,,,Whittier College
+142,O,1,10,L,13,Run,P-L,,2,Rush,DOUBLES,NITRO,,42,0,OVER,,,,Whittier College
+3,O,2,6,L,-44,Pass,,3,5,Complete,DOUBLES,OMAHA,,33,2HI,C4,4I,,1,George Fox University
+44,O,2,6,R,41,Pass,,9,0,Incomplete,DOUBLES,OMAHA,,70,0,OVER,,,,University of Puget Sound
+178,O,2,9,L,-26,Pass,,1,6,Complete,DOUBLES,OMAHA,,42,2HI,24,,,,Chapman University
+128,O,3,4,L,29,Pass,,2,20,Complete,TRIO,OMAHO YO,,33,2HI,ROBBER,4I,,,Linfield College
+17,O,2,11,L,-18,,,,5,Penalty,50,ORANGE,,33,,,,,,Pacific Lutheran University
+9,O,3,11,M,39,Pass,,6,15,Complete,50,ORCO,,32,1HI,C3,,,,University of Puget Sound
+38,O,2,10,L,10,Pass,,4,0,Incomplete,DOUBLES,ORCO,,42,2HI,C2,,,,University of Puget Sound
+88,O,3,6,L,-30,Pass,,,3,Penalty,50,ORCO,,31,UMBRELLA,PREVENT,,,,Willamette University
+126,O,2,8,R,50,Pass,,1,0,Incomplete,50,ORCO,,32,2HI,C3,4I,,,Willamette University
+167,O,2,5,,8,Pass,,,0,,DOUBLES,ORCO,,42,0,OVER,,,,Lewis & Clark College
+96,O,2,7,,-23,Pass,,,19,,50,ORCO,,32,2HI,24,,,,Linfield College
+127,O,2,10,,-29,Pass,,,0,,50,ORCO,,32,2HI,2MAN,4L,,,Linfield College
+29,O,3,5,L,5,Pass,,6,0,Incomplete,50,ORCO,,42,0,ZERO,6I,,,Chapman University
+144,O,2,8,R,43,Pass,,1,13,Complete,DOUBLES,ORCO,,42,2HI,C4,,,,Chapman University
+157,O,2,8,L,-28,Pass,,1,,"Interception, Def TD",50,ORCO,,42,2HI,C4,,,,University of La Verne
+144,O,3,8,L,11,Pass,,4,11,TD,50,ORCO,,41,0,2MAN,,,,Whittier College
+43,O,2,5,L,46,Pass,,8,0,Incomplete,DOUBLES,ORCO POST,,33,2HI,C2,,,,Pacific University
+116,O,1,10,L,-19,Pass,,3,4,Complete,TRIO,ORE YO,,42,1HI,C4,,,,Chapman University
+19,O,1,10,M,-34,Pass,B-R QB,,9,Scramble,TRIO,ORE YO,,41,2HI,2MAN,,,,Whittier College
+75,O,3,5,M,-37,Pass,,6,0,Incomplete,TEXAS,ORE YO X POST,,32,2HI,3ROLL,,,,Linfield College
+203,O,3,18,L,28,Pass,,1,18,Complete,DOUBLES,OREGON,EXP,42,2HI,C4,5I,,4,George Fox University
+14,O,1,10,R,-6,Pass,,3,9,Complete,BULLET,OREGON,,34,1HI,C3,,,,University of Puget Sound
+29,O,2,4,R,41,Pass,,6,13,Complete,DOUBLES,OREGON,,33,1HI,C1,,,,Pacific University
+196,O,3,4,R,8,Pass,,6,0,Incomplete,DEUCE,OREGON,,43,0,ZERO,6I,,,Pacific University
+111,O,3,2,,-34,Pass,,,5,,DOUBLES,OREGON,,42,2HI,C2,,,,Lewis & Clark College
+131,O,2,6,,-22,Pass,,,-11,Penalty,ACE,OREGON,,42,2HI,C4,,,,Lewis & Clark College
+79,O,3,3,L,-27,Pass,,4,50,Complete,DOUBLES,OREGON,,42,2HI,C2,,,,University of La Verne
+96,O,1,10,L,-33,Pass,,1,7,Complete,DOUBLES,OREGON,,43,2HI,C4,,,,University of La Verne
+104,O,1,15,L,16,Pass,,1,6,Complete,DOUBLES,OREGON,,42,2HI,C4,,,,University of La Verne
+138,O,2,10,R,-44,Pass,,3,11,Complete,DOUBLES,OREGON,,43,2HI,C4,,,,University of La Verne
+9,O,3,2,M,31,Pass,,3,0,Incomplete,DOUBLES,OREGON,,43,2HI,ZERO,7,,,Whittier College
+123,O,3,3,R,-34,Pass,,3,0,Incomplete,DOUBLES,OREGON,,42,2HI,2MAN,,,,Whittier College
+169,O,2,6,R,48,Pass,B-L QB,,4,Scramble,DEUCE,OREGON,,42,2HI,OVER,,,,Whittier College
+170,O,3,2,L,44,Pass,,1,3,Complete,DOUBLES,OREGON,,42,2HI,C2,,20,,Whittier College
+35,O,3,5,R,-34,Pass,,3,0,Incomplete,TRIO,OREGON BAMA,,42,2HI,C3,,,,Linfield College
+27,O,2,11,L,-29,Pass,B-L QB,,9,Scramble,DOUBLES,PAPER,,41,2HI,OVER,,,,University of Puget Sound
+32,O,2,4,L,48,Pass,,9,0,Incomplete,DOUBLES,PAPER,,33,1HI,C3,5I,,,Pacific Lutheran University
+5,O,2,3,M,39,Run,P-L,,5,Rush,DOUBLES,PLUM,,42,2HI,C2,,PINBALL,,Linfield College
+166,O,3,2,M,-33,Run,,,-2,Rush,DOUBLES,PLUM,,42,2HI,C3,,,,Linfield College
+99,O,2,5,M,9,Run,P-L,,0,Rush,DOUBLES,PLUM,,32,2HI,ZERO,5R,,,Pacific University
+113,O,1,2,L,2,Pass,,,1,Penalty,DOUBLES,PLUM,,34,,,,,,Pacific University
+101,O,2,8,L,13,Pass,,4,13,"Complete, TD",BULLET,POP 88 BRONCO,,34,0,OVER,4L,,,Willamette University
+12,O,3,2,R,16,Pass,,5,0,Incomplete,TRIO,POP 88 VIRGINIA,,61,0,OVER,,,,University of Puget Sound
+14,O,1,10,R,42,Pass,,1,9,Complete,TRIO,POP 89 C3,,33,2HI,3ROLL,4L,,1,George Fox University
+141,O,2,8,L,30,Pass,,4,0,Incomplete,BULLET,POP 89 OREGON,,33,2HI,C3,,,,Willamette University
+31,O,2,9,L,-44,Pass,,1,0,Incomplete,TRIO,POP 89 VIRGINIA,,42,1HI,C3,,,,University of Puget Sound
+32,O,3,9,L,-44,Pass,,,0,Timeout,TRIO,POP 89 VIRGINIA,,,,,,,,University of Puget Sound
+77,O,1,10,L,-20,Pass,,3,5,Complete,50,PORTLAND,,42,2HI,OVER,,,,University of La Verne
+105,O,2,9,L,10,Pass,,1,0,Incomplete,50,PORTLAND,,42,0,OVER,,,,University of La Verne
+182,O,2,9,L,39,Run,B-R QB,,15,Rush,DEUCE,QB BOOT,,52,2HI,OVER,,,,Willamette University
+157,O,3,3,R,45,Run,P-R QB,,0,Rush,DOUBLES,RAM,,43,2HI,ZERO,5R,,,Willamette University
+178,O,4,1,,-30,Run,,,0,,TRIO,RAM,,42,2HI,C2,,,,Linfield College
+56,O,2,10,R,-34,Pass,,3,0,Complete,TRIO,RANDY,,42,1HI,ROBBER,,,,University of Puget Sound
+157,O,2,15,R,-49,Pass,,3,0,Incomplete,TRIO,RANDY,,32,2HI,2MAN,4L,,,Pacific University
+61,O,2,15,R,-30,Pass,,3,19,Complete,TRIO,RANDY,,42,2HI,C4,,,,Whittier College
+174,O,3,23,R,-46,Pass,,3,12,Complete,TRIO,RANDY,,41,2HI,3ROLL,,,,Whittier College
+140,O,2,5,,19,Pass,,,0,,DEUCE,RED VANDAL,,42,2HI,C4,,,,Lewis & Clark College
+48,O,1,10,R,-14,Pass,,7,32,Complete,TRIO,REPLACE,,33,1HI,C3,,,,Pacific Lutheran University
+93,O,1,10,L,-30,Pass,,1,0,Incomplete,TRIO,REPLACE,,33,1HI,C3,5L,,,Pacific Lutheran University
+56,O,3,6,M,-32,Pass,,3,0,Incomplete,TRIO,REPLACE,,42,2HI,3ROLL,,,,Chapman University
+4,O,3,9,R,-27,Pass,,3,6,Complete,TRIO,REPLACE,,42,1HI,C1,5L,,,University of La Verne
+112,O,1,10,L,46,Pass,,3,30,Complete,TRIO,REPLACE,,42,1HI,3ROLL,,,,University of La Verne
+165,O,2,10,L,37,Pass,,3,5,Complete,TRIO,REPLACE,,42,1HI,21,,,,University of La Verne
+3,O,2,8,,-27,Pass,,,15,,TRIO,REPLACE B3,,42,2HI,21,5I,,,Linfield College
+166,O,1,10,,-45,Pass,,,5,Scramble,TRIO,REPLACE B3,,33,2HI,C3,,,,Linfield College
+3,O,2,11,L,-24,Pass,,1,30,Complete,TRIO,REPLACE MIAMI,,42,2HI,2MAN,,DALLAS,,Linfield College
+119,O,1,10,R,-20,Pass,,3,4,Complete,TRIO,REPLACE MIAMI,,42,2HI,2MAN,,,,Linfield College
+41,O,1,10,L,-20,Pass,,7,29,Complete,TRIO,REPLACE MIAMI,,33,2HI,2MAN,,,,Pacific University
+130,O,3,4,R,35,Pass,,3,5,Complete,TRIO,REPLACE PORTLAND,,42,2HI,C2,,,,Willamette University
+45,O,3,6,R,41,Pass,,3,8,Complete,DOUBLES,RICKY,,32,1HI,C1,5R,,,University of Puget Sound
+89,O,3,19,R,28,Pass,,3,0,Incomplete,DOUBLES,RICKY,,42,2HI,C4,,,,University of Puget Sound
+18,O,2,6,L,-23,Pass,,2,8,Complete,50,RICKY,,33,1HI,C3,5R,,,Pacific Lutheran University
+192,O,3,10,,39,Pass,,,2,,50,RICKY,,42,2HI,C4,,,,Linfield College
+128,O,2,7,R,46,Pass,,2,0,Incomplete,BULLET,RICKY,,42,2HI,,5R,?,,Chapman University
+8,O,3,7,L,31,Pass,,2,1,Complete,DEUCE,RIVER DUCKS,,33,1HI,C3,,,,Linfield College
+125,O,,,L,-20,Pass,,3,18,Complete,DOUBLES,RIVER LISA,,33,1HI,C3,5O,,,Pacific Lutheran University
+7,O,2,7,L,31,Pass,,3,0,Incomplete,DEUCE,RIVER LISA,,51,1HI,C1,5R,,,Linfield College
+37,O,2,6,,-38,Pass,,,12,,DOUBLES,RIVER LISA,,33,2HI,C2,4I,,,Lewis & Clark College
+113,O,2,10,,-39,Pass,,,12,,DOUBLES,RIVER LISA,,42,2HI,C2,,,,Lewis & Clark College
+24,O,2,5,R,41,Pass,,3,9,Complete,DOUBLES,RIVER LISA,,42,2HI,C4,,,,Chapman University
+74,O,1,8,R,8,Pass,,1,3,Complete,DOUBLES,RIVER LISA,,33,0,OVER,,,,Chapman University
+139,O,2,8,M,-29,Pass,,1,3,Complete,DOUBLES,RIVER LISA,,34,2HI,C4,,,,Chapman University
+140,O,2,10,R,45,Pass,,3,0,Incomplete,TEXAS,RIVER LISA,,42,2HI,,,?,,University of La Verne
+190,O,1,17,R,-39,Pass,,,-15,Penalty,TEXAS,RIVER LISA,,42,2HI,C4,,,,University of La Verne
+89,O,2,10,L,19,Pass,,1,19,TD,DOUBLES,RIVER LISA,,42,0,ZERO,6I,,,Whittier College
+148,O,1,10,M,23,Pass,,1,0,Incomplete,DOUBLES,RIVER LISA,,42,1HI,C1,,,,Whittier College
+27,O,2,5,L,36,Pass,,1,14,Complete,TRIO,RIVER SALLY,,42,2HI,C4,5L,,1,George Fox University
+101,O,1,10,L,-12,Pass,,3,9,Complete,DOUBLES,ROCK,,42,2HI,3ROLL,,,2,George Fox University
+123,O,2,5,L,24,Pass,,3,0,Incomplete,DOUBLES,ROCK,,42,2HI,3ROLL,,,3,George Fox University
+188,O,2,10,M,-30,Run,P-L,,4,Rush,DOUBLES,ROCK,,42,2HI,C4,,,4,George Fox University
+21,O,3,9,L,48,Run,P-R,,13,Rush,DOUBLES,ROCK,,33,2HI,C1,,,,University of Puget Sound
+68,O,1,10,M,39,Run,P-L,,2,Rush,DOUBLES,ROCK,,42,2HI,C4,,,,University of Puget Sound
+29,O,1,10,L,-25,Run,P-L,,2,Rush,DOUBLES,ROCK,,33,1HI,C3,5R,,,Pacific Lutheran University
+190,O,3,5,M,-41,Run,B-R QB,,-3,Rush,DOUBLES,ROCK,,51,1HI,C3,6I,,,Pacific Lutheran University
+114,O,1,1,L,1,Run,C-R,,-1,Rush,DOUBLES,ROCK,,34,0,ZERO,5R,,,Pacific University
+23,O,1,10,L,17,Run,P-R,,0,Rush,DOUBLES,SCISSORS,,32,2HI,OVER,,,,University of Puget Sound
+172,O,3,3,M,26,Run,B-R,,-5,Rush,DOUBLES,SCISSORS,,43,2HI,C1,5R,,,Linfield College
+47,O,3,10,L,49,Pass,,3,5,Complete,TRIO,SEAHAWK,,32,UMBRELLA,C3,,,,Willamette University
+89,O,1,10,L,-33,Pass,B-L QB,,-3,Scramble,50,SEAHAWK,,31,UMBRELLA,C3,4I,,,Willamette University
+115,O,2,3,,42,Pass,,,11,,TRIO,SEAHAWK,,42,2HI,ROBBER,,,,Lewis & Clark College
+32,O,3,12,,-49,Pass,,,22,,TRIO,SEAHAWK,,32,2HI,2MAN,4R,,,Linfield College
+152,O,2,10,,34,Pass,,,7,Scramble,TRIO,SEAHAWK,,42,2HI,C3,,,,Linfield College
+177,O,3,12,,-19,Pass,,,11,Scramble,TRIO,SEAHAWK,,42,2HI,2MAN,,,,Linfield College
+30,O,2,18,L,30,Pass,,,-3,Sack,TRIO,SEATTLE,,33,2HI,3ROLL,4I,,1,George Fox University
+6,O,2,11,,48,Pass,,,0,,TRIO,SHAKE B3,,41,2HI,21,5R,,,Linfield College
+62,O,1,10,L,40,Run,C-L,,7,Rush,DEUCE,SLICE EVEN,,42,1HI,C1,,,,University of Puget Sound
+65,O,4,1,R,31,Run,,,0,Rush,DEUCE,SLICE EVEN,,61,0,ZERO,,,,University of Puget Sound
+74,O,1,10,L,28,Run,P-L,,0,Rush,DEUCE,SLICE EVEN,,61,0,ZERO,7,,,University of Puget Sound
+87,O,2,11,M,20,Run,C-L,,2,Rush,DEUCE,SLICE EVEN,,43,0,C3,,,,University of Puget Sound
+96,O,2,13,L,25,Run,B-R,,3,Rush,DEUCE,SLICE EVEN,,70,1HI,ZERO,7,,,University of Puget Sound
+140,O,1,15,L,-33,Run,C-L,,0,Rush,DEUCE,SLICE EVEN,,33,1HI,C3,6I,,,Pacific Lutheran University
+195,O,2,8,R,12,Run,B-R,,4,Rush,DEUCE,SLICE EVEN,,43,2HI,C1,,,,Pacific University
+85,O,2,8,,32,Run,,,3,,DEUCE,SLICE EVEN,,42,2HI,C3,,,,Lewis & Clark College
+201,O,1,10,,-31,Run,,,5,,DEUCE,SLICE EVEN,,42,2HI,C4,,,,Lewis & Clark College
+127,O,1,10,R,49,Run,P-R,,3,Rush,BULLET,SLICE EVEN,,42,2HI,C1,,,,Chapman University
+195,O,2,7,R,31,Run,P-R,,8,Rush,BULLET,SLICE EVEN,,42,2HI,OVER,,,,Chapman University
+40,O,2,11,R,-2,Run,P-R,,-1,Rush,BULLET,SLICE ODD,,33,2HI,C3,,,1,George Fox University
+156,O,1,15,M,27,Run,P-L,,2,Rush,PISTOL,SLICE ODD,,42,2HI,C3,,,3,George Fox University
+219,O,1,10,R,-44,Run,B-L,,-1,Rush,BULLET,SLICE ODD,,42,2HI,C3,,,4,George Fox University
+15,O,1,10,R,-16,Run,P-L,,5,Rush,BULLET,SLICE ODD,,34,1HI,C3,,,,University of Puget Sound
+60,O,1,10,L,16,Run,C-L,,6,Rush,DEUCE,SLICE ODD,,42,1HI,C1,,,,University of Puget Sound
+162,O,,,L,,Run,,,,,DEUCE,SLICE ODD,,61,,ZERO,7,,,University of Puget Sound
+76,O,2,10,L,28,Run,P-L,,1,Rush,DEUCE,SLICE ODD,,61,0,ZERO,7,,,University of Puget Sound
+83,O,2,8,R,23,Run,P-L,,-1,Rush,DEUCE,SLICE ODD,,70,1HI,ZERO,7,,,University of Puget Sound
+94,O,3,8,L,33,Run,P-L,,-2,Rush,DEUCE,SLICE ODD,,70,1HI,ZERO,7,,,University of Puget Sound
+97,O,3,10,R,22,Run,C-R,,0,Rush,DEUCE,SLICE ODD,,70,1HI,ZERO,7,,,University of Puget Sound
+194,O,1,10,R,14,Run,C-R,,2,Rush,DEUCE,SLICE ODD,,33,1HI,C1,,,,Pacific University
+45,O,1,10,R,49,Run,C-R,,0,Rush,DEUCE,SLICE ODD,,33,2HI,OVER,,,,Willamette University
+134,O,1,10,,-45,Run,,,-1,Rush,DEUCE,SLICE ODD,,42,2HI,C3,,,,Lewis & Clark College
+138,O,2,10,,39,Run,,,15,,BULLET,SLICE ODD,,42,2HI,C4,,,,Lewis & Clark College
+139,O,1,10,,24,Run,,,5,,DEUCE,SLICE ODD,,33,2HI,C3,4I,,,Lewis & Clark College
+125,O,1,10,M,-36,Run,P-L,,6,Rush,BULLET,SLICE ODD,,42,2HI,24,,,,Chapman University
+177,O,1,10,L,-25,Run,B-L,,1,Rush,BULLET,SLICE ODD,,42,2HI,24,,,,Chapman University
+61,O,2,4,M,10,Run,B-L QB,,6,TD,DEUCE,SLICE RANGER,,42,1HI,C1,,,,University of Puget Sound
+135,O,4,2,M,7,Run,P-R,,-1,Rush,DEUCE,SLICE RANGER,,51,1HI,ZERO,7,,,Willamette University
+126,O,2,4,L,-42,Run,B-R QB,,9,Rush,BULLET,SLICE RANGER,,42,2HI,C4,,,,Chapman University
+66,O,2,13,,-17,Run,,,6,,BONE,STEELER ODD,,34,2HI,C1,,,,Lewis & Clark College
+47,O,3,8,M,28,Pass,,4,0,Incomplete,TRIO,SWITCH,,33,2HI,2MAN,4I,,,Pacific University
+59,O,2,10,L,-40,Pass,,2,0,Incomplete,TRIO,SWITCH,,32,2HI,2MAN,,,,Pacific University
+94,O,1,10,L,48,Pass,,6,16,Complete,TRIO,SWITCH,,33,2HI,C1,5I,,,Pacific University
+179,O,2,14,L,-15,Pass,,1,0,Incomplete,TRIO,SWITCH,,32,2HI,2MAN,,,,Pacific University
+87,O,2,6,L,-30,Pass,,6,0,Incomplete,TRIO,SWITCH,,32,UMBRELLA,PREVENT,,,,Willamette University
+124,O,1,10,L,50,Run,P-R,,0,Rush,50,T QK A NOW,,42,2HI,C1,6I,,,Linfield College
+175,O,3,10,M,-15,Run,B-R,,7,Rush,50,T QK BEARS,,33,1HI,C3,5L,,,Pacific Lutheran University
+180,O,3,14,L,-15,Run,B-R,,2,Rush,50,T QK BEARS,,33,1HI,C3,5L,,,Pacific University
+10,O,1,10,R,24,Pass,,3,4,Complete,DOUBLES,TAP TAP,,32,2HI,C4,,,,University of Puget Sound
+56,O,1,10,R,-36,Pass,,7,0,Incomplete,DOUBLES,TAP TAP,,41,2HI,C3,,,,Linfield College
+34,O,1,10,L,-36,Pass,,1,4,Complete,TRIO,TAP TAP,,43,1HI,C3,,,,University of La Verne
+37,O,2,8,L,39,Pass,,3,0,Incomplete,DOUBLES,TAP TAP,,43,0,ZERO,7,,,Whittier College
+84,O,1,10,L,29,Pass,,,-5,Sack,DOUBLES,TAP TAP,,42,2HI,21,,,,Whittier College
+150,O,3,1,R,14,Pass,,4,14,TD,DOUBLES,TAP TAP,,42,0,ZERO,7,,,Whittier College
+71,O,1,10,M,44,Pass,,1,-5,Complete,DOUBLES,TAP TAP ECHO,,33,1HI,C3,5O,,,Pacific Lutheran University
+134,O,1,10,L,38,Pass,,6,13,Complete,DOUBLES,TAP TAP ECHO,,33,2HI,24,,,,Pacific University
+185,O,1,10,R,20,Pass,,3,2,Complete,DOUBLES,TAP TAP ECHO,,33,2HI,C2,,,,Pacific University
+27,O,2,1,L,-34,Pass,,6,19,Complete,TRIO,TAP TAP NITRO,,33,2HI,ROBBER,,,,Pacific University
+156,O,1,15,R,-49,Pass,,7,0,Incomplete,TRIO,TAP TAP NITRO,,33,1HI,ROBBER,,,,Pacific University
+113,O,3,4,M,44,Pass,B-R QB,,5,Scramble,TRIO,TAP TAP NITRO,,32,2HI,C3,,,,Willamette University
+131,O,1,10,R,30,Pass,,,15,Penalty,TRIO,TAP TAP NITRO,,33,2HI,C3,,,,Willamette University
+63,O,2,10,R,-49,Pass,,1,0,Incomplete,DOUBLES,TEAR ARK ROLL,,42,2HI,3ROLL,,,,Whittier College
+119,O,4,3,,3,Pass,,,0,,TRIO,TEAR ARKANSAS,,50,0,ZERO,,,,Linfield College
+158,O,2,6,,6,Pass,,,0,,TRIO,TEAR ARKANSAS,,33,0,OVER,,,,Linfield College
+4,O,1,10,L,46,Run,P-R QB,,7,Rush,TRIO,TEAR ARMY,,42,2HI,C3,,PINBALL,,Linfield College
+161,O,1,8,L,8,Run,B-R QB,,8,"Rush, TD",TRIO,TEAR ARMY,,32,2HI,C1,,,,Pacific University
+137,O,1,10,R,42,Pass,,1,0,Complete,TRIO,TEAR ARMY,,42,2HI,C3,,,,Willamette University
+81,O,1,10,,-44,Pass,,,7,,DEUCE,TEAR ARMY,,42,2HI,21,,,,Lewis & Clark College
+9,O,1,10,,31,Run,,,4,,DEUCE,TEAR ARMY,,42,1HI,C3,,ROVER TO TE/H,,Linfield College
+117,O,2,4,,4,Run,,,1,,DEUCE,TEAR ARMY,,42,0,ZERO,,,,Linfield College
+150,O,3,3,,37,Run,,,3,,DEUCE,TEAR ARMY,,41,1HI,C3,,,,Linfield College
+20,O,2,2,R,-43,Pass,,1,8,Complete,DOUBLES,TEAR B1,,42,2HI,C1,5R,,,Whittier College
+139,O,2,8,L,23,Pass,,1,5,Complete,DOUBLES,TEAR B1,,42,2HI,OVER,,,,Whittier College
+117,O,2,5,,26,Pass,,,26,TD,DOUBLES,TEAR B2,,41,2HI,C2,,,,Lewis & Clark College
+197,O,3,3,M,-24,Pass,,3,0,Incomplete,DOUBLES,TEAR B2,,41,2HI,C2,,,,Whittier College
+2,O,1,10,L,-21,Pass,,,-10,Penalty,DOUBLES,TEAR B2 HAWAII,,33,1HI,C3,5R,WEAK HASH,,Pacific Lutheran University
+153,O,2,7,M,-48,Pass,,6,19,Complete,DOUBLES,TEAR BOAT,EXP,42,2HI,3ROLL,,,3,George Fox University
+178,O,2,11,R,-24,Pass,,1,0,Incomplete,DOUBLES,TEAR BOAT,,42,2HI,C3,,,4,George Fox University
+60,O,3,10,L,-40,Pass,,6,0,Incomplete,DOUBLES,TEAR BOAT,,32,2HI,2MAN,4I,?,,Pacific University
+86,O,3,25,,-8,Pass,,,0,,DOUBLES,TEAR BOAT,,33,2HI,21,5R,,,Linfield College
+128,O,3,10,,-29,Pass,,,-7,Sack,DOUBLES,TEAR BOAT,,32,2HI,2MAN,4I,,,Linfield College
+158,O,2,10,M,-38,Pass,,1,3,Complete,DOUBLES,TEAR BOAT,,42,2HI,C4,,,,Chapman University
+36,O,2,27,,46,Pass,,,0,,DEUCE,TEAR DBL POSTS,,42,1HI,,,OVER 1,,Linfield College
+147,O,2,5,,-46,Run,,,10,,DEUCE,TEAR DBL POSTS,,41,1HI,,,OVER 1,,Linfield College
+186,O,2,11,,-33,Pass,,,11,Scramble,DEUCE,TEAR DBL POSTS,,42,1HI,C3,5R,INVERT?,,Linfield College
+109,O,1,20,L,-43,Pass,,4,0,Incomplete,TRIO,TEAR DOVER,,42,2HI,3ROLL,,,2,George Fox University
+69,O,1,10,L,-43,Pass,,3,4,Complete,TRIO,TEAR DOVER,,33,1HI,C3,5L,,,Pacific Lutheran University
+36,O,1,10,,-34,Pass,,,4,,TRIO,TEAR DOVER,,31,2HI,ROBBER,,,,Lewis & Clark College
+67,O,1,10,M,-19,Pass,,1,10,Complete,TRIO,TEAR DOVER,,42,2HI,C4,,,,Chapman University
+90,O,1,10,R,-25,Pass,,2,11,Complete,TRIO,TEAR DOVER,,42,2HI,3ROLL,,,,Chapman University
+101,O,4,1,L,5,Run,P-L QB,,5,"Rush, TD",DOUBLES,TEAR DUCKS,,33,0,C1,,?,,Pacific University
+58,O,2,3,L,3,Run,P-L QB,,3,"Rush, TD",DOUBLES,TEAR DUCKS,,33,0,ZERO,4L,,,Willamette University
+168,O,3,4,,49,Pass,,,0,,TRIO,TEAR FLORIDA,,33,2HI,C3,,,,Linfield College
+149,O,2,10,,44,Pass,,,7,,DEUCE,TEAR H-LARRY,,42,1HI,21,,,,Linfield College
+101,O,3,10,M,20,Pass,,,-7,Sack,TRIO,TEAR IDAHO,,33,1HI,C3,6I,,,Pacific Lutheran University
+58,O,3,10,R,-36,Pass,,,-7,Sack,DOUBLES,TEAR IDAHO,,33,2HI,OVER,4I,,,Linfield College
+83,O,2,8,,-25,Pass,,,-7,Sack,DOUBLES,TEAR IDAHO,,41,2HI,C3,5I,,,Linfield College
+191,O,2,10,,39,Pass,,,0,,DOUBLES,TEAR IDAHO,,42,2HI,ZERO,6L,,,Linfield College
+10,O,2,6,,27,Pass,,,0,,DEUCE,TEAR LUCY,,41,1HI,C4,,CK C? - W HASH VERT,,Linfield College
+38,O,3,8,R,-21,Pass,,2,6,Complete,TRIO,TEAR MIAMI,,32,UMBRELLA,C3,4I,,,Willamette University
+139,O,3,6,L,38,Pass,,3,6,Complete,TRIO,TEAR MIAMI,,42,0,OVER,4R,,,Willamette University
+73,O,1,10,R,-32,Pass,,3,4,Complete,DOUBLES,TEAR NIKE,,32,2HI,3ROLL,,,,Linfield College
+30,O,2,8,L,-27,Pass,,2,19,Complete,DOUBLES,TEAR OMAHA,,33,1HI,C3,5O,,,Pacific Lutheran University
+33,O,3,4,L,48,Pass,,5,18,Complete,DOUBLES,TEAR OMAHA,,33,1HI,C3,5I,,,Pacific Lutheran University
+61,O,3,1,R,30,Pass,,2,30,"Complete, TD",DOUBLES,TEAR OMAHA,,51,1HI,ZERO,6I,,,Pacific Lutheran University
+97,O,3,2,L,43,Pass,,6,13,Complete,DOUBLES,TEAR OMAHA,,33,1HI,C3,,,,Pacific Lutheran University
+141,O,2,15,M,-33,Pass,,6,0,Incomplete,DOUBLES,TEAR OMAHA,,33,1HI,C3,5I,,,Pacific Lutheran University
+116,O,3,2,L,2,Pass,,1,0,Incomplete,DOUBLES,TEAR OMAHA,,33,0,ZERO,,,,Pacific University
+72,O,3,7,M,12,Pass,,2,0,Incomplete,DOUBLES,TEAR OMAHA,,32,2HI,OVER,4I,,,Willamette University
+27,O,3,4,,-26,Pass,,,4,,DOUBLES,TEAR OMAHA,,42,2HI,24,,,,Linfield College
+159,O,3,6,,6,Pass,,,6,TD,DOUBLES,TEAR OMAHA,,32,0,ZERO,6O,,,Linfield College
+4,O,2,18,R,-13,Pass,,,0,Incomplete,TRIO,TEAR VANDAL,,33,1HI,C3,5I,,,Pacific Lutheran University
+99,O,1,10,M,20,Pass,,7,0,Incomplete,DOUBLES,TEAR VANDAL,FIELD ESCAPE,33,1HI,C3,5L,WEAK HASH,,Pacific Lutheran University
+38,O,1,10,,50,Pass,,,34,,DOUBLES,TEAR VANDAL,,32,2HI,C2,4I,,,Lewis & Clark College
+133,O,3,18,,-10,Pass,,,35,,DOUBLES,TEAR VANDAL,,42,2HI,C4,,,,Lewis & Clark College
+21,O,1,10,L,49,Pass,,7,49,TD,DOUBLES,UTAH,,43,2HI,ZERO,7,,,Whittier College
+65,O,1,10,R,38,Pass,,9,38,TD,DOUBLES,UTAH,,42,2HI,C4,,,,Whittier College
+19,O,2,2,,44,Pass,,,29,,DOUBLES,UTAH,,42,2HI,C2,,,,Lewis & Clark College
+136,O,2,8,R,23,Pass,P-R QB,,23,"Scramble, TD",DOUBLES,UTAH,,33,2HI,2MAN,4I,,,Pacific University
+79,O,2,4,M,-16,Pass,,4,20,Complete,DOUBLES,UTAH,EXP,42,2HI,3ROLL,,,2,George Fox University
+57,O,2,8,R,-21,Pass,,5,19,Complete,DOUBLES,UTAH,,33,2HI,C2,,,,Pacific University
+121,O,3,6,R,-24,Pass,,6,15,Complete,DOUBLES,UTAH,,42,2HI,3ROLL,,,,Linfield College
+161,O,1,10,L,-36,Pass,,4,13,Complete,DOUBLES,UTAH,,42,2HI,C4,,,,University of La Verne
+140,O,3,5,L,-32,Pass,,4,9,Complete,DOUBLES,UTAH,,42,2HI,OVER,,,,Chapman University
+31,O,1,10,L,-16,Pass,,1,8,Complete,DOUBLES,UTAH,,42,2HI,2MAN,,,,Linfield College
+9,O,2,7,L,-23,Pass,,1,5,Complete,DOUBLES,UTAH,,42,2HI,24,,,,Chapman University
+110,O,1,20,R,39,Pass,,,5,Penalty,DOUBLES,UTAH,,42,2HI,3ROLL,,,,Whittier College
+38,O,1,10,R,38,Pass,,3,4,Complete,50,UTAH,,33,2HI,24,,,,Chapman University
+54,O,2,7,R,50,Pass,,9,3,Interception,50,UTAH,,41,1HI,C3,,,,University of Puget Sound
+21,O,2,6,R,-45,Pass,,3,3,Complete,DOUBLES,UTAH,,33,1HI,C3,5R,,,Pacific Lutheran University
+61,O,3,7,,-23,Pass,,,3,,50,UTAH,,33,2HI,2MAN,4L,,,Linfield College
+31,O,3,21,R,33,Pass,,5,0,Incomplete,DOUBLES,UTAH,,33,2HI,C4,4I,,1,George Fox University
+87,O,2,6,R,27,Pass,,5,0,Incomplete,DOUBLES,UTAH,,42,2HI,3ROLL,,,2,George Fox University
+103,O,1,10,R,-28,Pass,,4,0,Incomplete,DOUBLES,UTAH,,42,2HI,3ROLL,,,2,George Fox University
+185,O,2,6,R,-18,Pass,,3,0,Incomplete,DOUBLES,UTAH,,33,2HI,3ROLL,4L,,4,George Fox University
+51,O,2,10,L,-28,Pass,,4,0,Incomplete,DOUBLES,UTAH,,42,2HI,3ROLL,,,,University of Puget Sound
+112,O,1,10,,-39,Pass,,,0,,DOUBLES,UTAH,,43,2HI,C4,5I,,,Lewis & Clark College
+31,O,2,12,,-49,Pass,,,0,,DOUBLES,UTAH,,32,2HI,,4R,OVER 1,,Linfield College
+153,O,3,3,,27,Pass,,,0,,DOUBLES,UTAH,,42,2HI,2MAN,,,,Linfield College
+35,O,2,6,L,-40,Pass,,5,0,Incomplete,DOUBLES,UTAH,,42,2HI,C4,,,,University of La Verne
+158,O,2,8,R,41,Pass,,5,0,Incomplete,DOUBLES,UTAH,,42,2HI,OVER,,,,Whittier College
+105,O,1,10,R,-40,Pass,,,-10,Penalty,50,UTAH,,41,2HI,C4,,,,Whittier College
+44,O,2,16,R,44,Pass,,,-12,Fumble,50,UTAH,,32,2HI,C4,,,,Linfield College
+18,O,2,8,R,-35,Pass,,5,,Interception,DOUBLES,UTAH,,33,2HI,OVER,,,,Willamette University
+110,O,2,20,L,-43,Pass,,5,0,Incomplete,TRIO,VANDAL,,42,2HI,3ROLL,,,2,George Fox University
+16,O,2,5,R,-20,Pass,,9,20,Complete,BULLET,VANDAL,,34,1HI,C3,,,,University of Puget Sound
+35,O,2,6,L,26,Pass,,7,0,Incomplete,TRIO,VANDAL,,42,1HI,ROBBER,,,,University of Puget Sound
+39,O,3,10,L,10,Pass,,4,0,TD,TRIO,VANDAL,,42,1HI,OVER,,,,University of Puget Sound
+48,O,3,9,M,32,Pass,,4,0,Incomplete,DOUBLES,VANDAL,,42,1HI,C1,5R,,,University of Puget Sound
+64,O,3,1,R,31,Pass,,7,0,Incomplete,DEUCE,VANDAL,,61,0,OVER,,,,University of Puget Sound
+72,O,2,10,L,40,Pass,,9,0,Incomplete,TRIO,VANDAL,,70,0,OVER,,,,University of Puget Sound
+77,O,3,9,L,27,Run,P-L,,1,Rush,BULLET,VANDAL,,61,0,OVER,,,,University of Puget Sound
+98,O,4,10,R,22,Pass,,9,0,Incomplete,DEUCE,VANDAL,,70,1HI,OVER,,,,University of Puget Sound
+19,O,1,10,R,-31,Pass,,,10,Incomplete,50,VANDAL,,33,1HI,C3,5O,,,Pacific Lutheran University
+111,O,2,11,L,-14,Pass,,5,0,Incomplete,TRIO,VANDAL,,33,1HI,C3,5O,,,Pacific Lutheran University
+22,O,1,10,R,-36,Pass,,,-7,Sack,TEXAS,VANDAL,,42,2HI,C2,,,,Linfield College
+58,O,1,10,L,-40,Pass,,7,0,Incomplete,TRIO,VANDAL,,33,2HI,3ROLL,,?,,Pacific University
+89,O,1,10,R,-22,Pass,,5,13,Complete,TRIO,VANDAL,,33,2HI,C1,4I,OVER,,Pacific University
+182,O,1,10,L,33,Pass,,9,0,Incomplete,TRIO,VANDAL,,33,2HI,C1,,OVER,,Pacific University
+4,O,3,19,L,-1,Pass,,4,0,Incomplete,TRIO,VANDAL,,32,UMBRELLA,C3,,,,Willamette University
+35,O,1,20,,39,Pass,,,-7,Sack,50,VANDAL,,32,2HI,C3,4L,,,Linfield College
+98,O,2,7,,-45,Pass,,,,Interception,50,VANDAL,,32,2HI,2MAN,,Y???,,Linfield College
+156,O,2,6,,18,Pass,,,9,Scramble,TRIO,VANDAL,,33,2HI,C3,,,,Linfield College
+176,O,2,12,,-19,Pass,,,0,,TRIO,VANDAL,,42,2HI,C3,,,,Linfield College
+190,O,1,10,,39,Pass,,,0,,DOUBLES,VANDAL,,42,2HI,2MAN,,,,Linfield College
+7,O,1,10,L,-5,Pass,,4,15,Complete,TEXAS,VANDAL,,42,2HI,24,,,,Chapman University
+42,O,1,10,L,24,Pass,,9,0,Incomplete,TRIO,VANDAL,,42,2HI,C2,,,,Chapman University
+44,O,3,10,L,24,Pass,,4,0,Incomplete,TRIO,VANDAL,,42,1HI,C3,5I,,,Chapman University
+48,O,1,20,L,-27,Pass,,1,3,Complete,BULLET,VANDAL,,42,2HI,C2,,,,University of La Verne
+59,O,1,10,L,18,Pass,,5,18,TD,TRIO,VANDAL,,42,0,OVER,,,,University of La Verne
+139,O,1,10,R,45,Pass,,6,0,Incomplete,TRIO,VANDAL,,42,1HI,24,,,,University of La Verne
+18,O,1,10,M,-20,Pass,,5,14,Complete,TRIO,VANDAL,,41,2HI,C2,,,,Whittier College
+50,O,3,10,R,-41,Pass,,9,0,Incomplete,TRIO,VANDAL,,41,2HI,C4,,,,Whittier College
+60,O,1,15,R,-30,Pass,,8,0,Incomplete,TRIO,VANDAL,,41,2HI,C4,,,,Whittier College
+62,O,1,10,R,-49,Pass,,6,0,Incomplete,TRIO,VANDAL,,41,2HI,OVER,,,,Whittier College
+82,O,1,10,M,-40,Pass,,6,13,Complete,TRIO,VANDAL,,41,2HI,OVER,,,,Whittier College
+98,O,3,10,L,-37,Pass,,9,0,Incomplete,TRIO,VANDAL,,42,2HI,3ROLL,,,,Whittier College
+111,O,1,15,R,34,Pass,,7,0,Incomplete,DOUBLES,VANDAL,,42,2HI,3ROLL,,,,Whittier College
+114,O,1,10,R,24,Pass,,7,0,Incomplete,TRIO,VANDAL,,41,2HI,3ROLL,,,,Whittier College
+109,O,3,10,M,42,Pass,,6,0,Incomplete,TRIO,VANDAL CHIP,,33,2HI,2MAN,,,,Linfield College
+221,O,3,10,L,-44,,,,-1,,,VICTORY,,,,,,,4,George Fox University
+99,O,1,3,R,3,Run,,,0,,DEUCE,VICTORY,,,,,,,,University of Puget Sound
+212,O,,,R,,,,,,,,VICTORY,,,,,,,,University of Puget Sound
+100,O,1,3,R,3,Run,,,-76,,,VICTORY,,,,,,,,University of Puget Sound
+184,O,2,10,R,24,,,,0,,,VICTORY,,,,,,,,Willamette University
+185,O,2,10,R,24,,,,-4,,,VICTORY,,,,,,,,Willamette University
+186,O,3,14,R,28,,,,-5,,,VICTORY,,,,,,,,
+196,O,1,10,R,23,,,,,,,VICTORY,,,,,,,,Chapman University
+197,O,2,11,R,24,,,,-2,,,VICTORY,,,,,,,,
+218,O,2,12,L,21,,,,,,,VICTORY,,,,,,,,Whittier College
+121,O,2,9,M,46,Pass,,5,17,Complete,DOUBLES,VIRGINIA JAZZ,EXP,42,2HI,C4,,,3,George Fox University
+51,O,2,7,L,-49,Pass,,4,0,Incomplete,DOUBLES,X MONTANA,,33,1HI,C3,5I,,,Pacific Lutheran University
+85,O,2,15,R,34,Pass,,1,-1,Complete,TRIO,X MONTANA,,42,2HI,3ROLL,,,,Whittier College
+149,O,2,10,M,23,Pass,,2,9,Complete,TRIO,X MONTANA,,42,2HI,3ROLL,,,,Whittier College
+52,O,2,5,M,-25,Run,P-L,,-1,Rush,DOUBLES,YELLOW,,42,2HI,C3,,,1,George Fox University
+68,O,2,3,L,-39,Run,P-L,,2,Rush,DOUBLES,YELLOW,,42,2HI,C4,,,2,George Fox University
+176,O,1,10,R,-25,Run,P-L,,-1,Rush,TRIO,YELLOW,,42,2HI,C4,,,4,George Fox University
+187,O,1,10,R,-30,Run,P-L,,0,Rush,DOUBLES,YELLOW,,42,2HI,3ROLL,,,4,George Fox University
+22,O,1,10,R,-40,Run,P-L,,14,Rush,DOUBLES,YELLOW,,43,2HI,21,,,,Chapman University
+147,O,2,8,M,15,Run,P-L,,5,Rush,DOUBLES,YELLOW,,43,0,ZERO,,,,Chapman University
+194,O,1,10,R,34,Run,C-R,,3,Rush,DOUBLES,YELLOW,,42,2HI,OVER,,,,Chapman University
+31,O,1,10,L,-25,Run,P-L,,7,Rush,DOUBLES,YELLOW,,43,1HI,C3,,,,University of La Verne
+33,O,3,1,L,-34,Run,P-L,,2,Rush,DOUBLES,YELLOW,,42,2HI,C2,,,,University of La Verne
+95,O,1,10,R,-18,Run,P-L,,15,Rush,DOUBLES,YELLOW,,43,2HI,C4,,,,University of La Verne
+163,O,1,10,L,37,Run,P-L,,5,Rush,DOUBLES,YELLOW,,42,2HI,C4,,,,University of La Verne
+211,O,2,10,R,39,Run,P-L,,4,Rush,BULLET,YELLOW,,43,1HI,C1,,,,University of La Verne
+83,O,1,10,R,48,Run,P-L,,19,Rush,DOUBLES,YELLOW,,42,1HI,C1,6I,,,Whittier College
+96,O,1,10,L,-37,Run,C-R,,0,Rush,TRIO,YELLOW,,41,2HI,C1,,,,Whittier College
+136,O,2,6,R,44,Run,C-R,,5,Rush,DOUBLES,YELLOW,,42,2HI,C4,,,,Whittier College
+179,O,2,5,R,20,Run,P-L,,4,Rush,TRIO,YELLOW,,42,2HI,C4,,,,Whittier College
+182,O,2,12,R,13,Run,P-L,,5,Rush,TRIO,YELLOW,,42,0,2MAN,,,,Whittier College
+217,O,1,10,L,19,Run,B-L QB,,-2,Scramble,TRIO,YELLOW,,42,0,OVER,,,,Whittier College
+20,O,1,10,R,-7,Pass,,3,11,Complete,DOUBLES,Z MONTANA,,42,2HI,2MAN,,,,Linfield College
+120,O,2,6,R,-24,Pass,,2,0,Complete,DOUBLES,Z MONTANA,,41,2HI,C3,,,,Linfield College
+156,O,2,9,R,-26,Pass,,,-2,Sack,DOUBLES,Z MONTANA,,32,2HI,C3,,,,Linfield College
+78,O,2,5,R,-25,Pass,,1,2,Complete,TRIO,Z MONTANA,,42,2HI,C2,,,,University of La Verne
+115,O,3,9,R,15,Pass,,2,1,Complete,TRIO,Z MONTANA,,42,1HI,C1,5I,,,University of La Verne
+47,O,1,10,M,-30,Pass,,1,11,Complete,TRIO,Z MONTANA,,41,2HI,2MAN,,,,Whittier College
+107,O,2,7,R,-43,Pass,,5,0,Incomplete,TRIO,Z MONTANA,,42,2HI,3ROLL,,,,Whittier College
+112,O,2,15,R,34,Pass,,2,0,Incomplete,TRIO,Z MONTANA,,41,2HI,2MAN,,,,Whittier College
+139,O,1,10,R,-38,Run,B-L,,-5,Rush,DEUCE,ZEBRA,,33,1HI,C3,5R,,,Pacific Lutheran University
+56,O,2,10,R,24,Pass,,3,19,Complete,DOUBLES,ZIPPER,,33,2HI,OVER,,,,Willamette University
+116,O,3,12,R,41,Pass,,2,0,Incomplete,DOUBLES,ZIPPER,,32,UMBRELLA,C3,,,,Willamette University
+6,O,2,6,R,29,Pass,,7,26,Complete,DOUBLES,ZOOM 89 SEATTLE,EXP,42,2HI,C2,,,1,George Fox University
+179,O,3,11,R,-24,Pass,,1,0,Interception,DOUBLES,ZOOM 89 SEATTLE,,33,2HI,C4,4I,,4,George Fox University
+7,O,2,6,M,34,Pass,,7,0,Incomplete,DOUBLES,ZOOM 89 SEATTLE,,33,2HI,3ROLL,,,,University of Puget Sound
+13,O,4,2,R,16,Pass,,1,0,Incomplete,DOUBLES,ZOOM 89 SEATTLE,,70,0,ZERO,,,,University of Puget Sound
+71,O,1,10,,-19,Pass,,,0,,ACE,ZOOM B2 WHEEL,,42,2HI,C3,,,,Linfield College
+82,O,2,3,,49,Run,,,3,,ACE,ZOOM BILLS,,43,2HI,C4,,,,Lewis & Clark College
+145,O,1,10,,-25,Run,,,16,,ACE,ZOOM BILLS,,34,1HI,C3,,,,Linfield College
+7,O,3,11,,48,Pass,,,17,,ACE,ZOOM MONTANA,,42,2HI,2MAN,,,,Linfield College
+148,O,1,10,,44,Pass,,,0,,ACE,ZOOM MONTANA,,42,1HI,C3,,,,Linfield College
+47,O,2,8,R,31,Run,C-L,,-1,Rush,DOUBLES,ZOOM ROCK,,33,2HI,C3,,,,University of Puget Sound
+213,O,1,10,R,17,Run,P-L,,7,Rush,DOUBLES,ZOOM ROCK,,33,2HI,2MAN,,,,Pacific University
+74,O,2,6,R,-36,Run,P-L QB,,1,Rush,DOUBLES,ZOOM SCISSORS,,42,2HI,C1,,,,Linfield College
+51,O,2,10,M,-20,,,,5,Penalty,DOUBLES,,,42,1HI,,,,1,George Fox University
+155,O,1,10,M,22,,,,-5,Penalty,,,,42,,,,,3,George Fox University
+159,O,3,25,R,37,,,,-5,Penalty,50,,,,2HI,,,,3,George Fox University
+4,O,,,,,Pass,,,0,Incomplete,DOUBLES,,,70,,,,,,University of Puget Sound
+8,O,,,,,Pass,,,2,,DOUBLES,,,33,,,,,,University of Puget Sound
+34,O,1,10,L,30,,,,0,,,,,33,1HI,,,,,Pacific Lutheran University
+181,O,1,10,R,35,Pass,,,0,Interception,TRIO,,,33,1HI,C3,5I,,,Pacific Lutheran University
+32,O,2,2,L,-24,,,,5,Penalty,DOUBLES,,,32,2HI,,,MOSES - 3 MAN,,Linfield College
+155,O,1,10,R,46,,,,-5,Penalty,,,,,,,,,,Pacific University
+154,O,2,4,L,-43,,,,5,Penalty,,,,32,,,,,,Willamette University
+8,O,1,10,,31,,,,0,,TRIO,,,42,2HI,,,,,Linfield College
+29,O,1,10,,49,,,,-5,Penalty,TRIO,,,32,2HI,,,,,Linfield College
+33,O,1,10,,29,,,,-5,Penalty,TRIO,,,,2HI,,,,,Linfield College
+34,O,1,15,,34,,,,-5,Penalty,50,,,32,2HI,,,,,Linfield College
+72,O,2,10,,-19,,,,-5,Penalty,DEUCE,,,42,1HI,,,,,Linfield College
+84,O,3,15,,-18,,,,-5,Penalty,TRIO,,,42,2HI,,,,,Linfield College
+85,O,3,20,,-13,,,,-5,Penalty,TRIO,,,33,2HI,,,,,Linfield College
+137,O,2,7,,-28,,,,5,,TRIO,,,42,2HI,,,,,Linfield College
+10,O,3,2,L,-28,,,,-5,Penalty,TRIO,,,42,1HI,,,,,Chapman University
+97,O,2,4,L,4,,,,0,Timeout,TRIO,,,42,1HI,,,,,Chapman University
+103,O,1,10,R,27,Pass,,,10,Complete,TRIO,,,42,2HI,C4,,,,Chapman University
+104,O,1,10,R,17,Run,,,17,TD,TRIO,,,42,2HI,3ROLL,,,,Chapman University
+166,O,3,5,R,32,,,,5,Penalty,TRIO,,,42,1HI,,,,,University of La Verne
+59,O,1,10,R,-35,,,,-5,Penalty,DOUBLES,,,42,2HI,,,,,Whittier College
+87,O,4,5,L,24,,,,5,Penalty,TRIO,,,42,0,,,,,Whittier College
+120,O,3,2,R,-22,,,,5,Penalty,TRIO,,,42,2HI,,,,,Whittier College
