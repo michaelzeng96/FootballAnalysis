@@ -24,11 +24,12 @@ del raw_df
 df[np.isnan(df)] = -1
 
 #classify yards gained/lost
-df[df["GN/LS"]< 10] = 1
-df[df["GN/LS"]<= 0] = 0
-df[df["GN/LS"]>= 10] = 2
-#for value in df["GN/LS"]:
-    #print value
+#classify yards gained/lost
+gnls = np.array(df["GN/LS"])
+gnls[gnls <= 0] = 0
+gnls[gnls < 10] = 1
+gnls[gnls >= 10] = 2
+df["GN/LS"] = gnls
         
 #drop opponent team name
 df = df.drop("OPP TEAM", 1)
@@ -43,7 +44,7 @@ y_test = test["GN/LS"]
 x_test = test
 del x_test["GN/LS"]
 
-RFC = ensemble.RandomForestClassifier(n_estimators=1000, n_jobs=-1)
+RFC = ensemble.RandomForestClassifier(n_estimators=10, n_jobs=-1)
 RFC.fit(x_train, y_train)
 
 predicted = RFC.predict(x_test)
